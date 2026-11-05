@@ -1,8 +1,188 @@
 {
-  "COLLECTION_NAME_HERE": [
+  "companies": [
     {
       "id": "1234",
-      "KEY_HERE": "VALUE_HERE"
+      "name": "Nintendo",
+      "location": "Japan",
+      "foundedYear": "1889"
+    },
+    {
+      "id": "2345",
+      "name": "Microsoft",
+      "location": "US",
+      "foundedYear": "1970"
+    },
+    {
+      "id": "3456",
+      "name": "Sony",
+      "location": "Japan",
+      "foundedYear": "1946"
+    },
+    {
+      "id": "4567",
+      "name": "Ubisoft",
+      "location": "France",
+      "foundedYear": "1986"
+    },
+    {
+      "id": "5678",
+      "name": "Electronic Arts",
+      "location": "US",
+      "foundedYear": "1982"
+    },
+    {
+      "id": "6789",
+      "name": "Sega",
+      "location": "Japan",
+      "foundedYear": "1965"
+    },
+    {
+      "id": "7890",
+      "name": "Capcom",
+      "location": "Japan",
+      "foundedYear": "1979"
+    }
+  ],
+  "games": [
+    {
+      "id": "ABCD",
+      "title": "The Legend of Zelda: Ocarina of Time Remake",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "EFGH",
+      "title": "Mario Kart 9",
+      "category": "racing",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "IJKL",
+      "title": "Super Smash Bros. Ultimate 2",
+      "category": "fighting",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "MNOP",
+      "title": "Luigi's Mansion 4",
+      "category": "action",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "QRST",
+      "title": "Kirby Star Allies 2",
+      "category": "action",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "UVWX",
+      "title": "Pokemon Legends: Crystal",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "YZ12",
+      "title": "Splatoon 4",
+      "category": "action",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "345A",
+      "title": "Forza Horizon 7",
+      "category": "racing",
+      "rating": null,
+      "companyId": "2345"
+    },
+    {
+      "id": "678B",
+      "title": "Halo Infinite 2",
+      "category": "action",
+      "rating": null,
+      "companyId": "2345"
+    },
+    {
+      "id": "901C",
+      "title": "Gran Turismo 9",
+      "category": "racing",
+      "rating": null,
+      "companyId": "3456"
+    },
+    {
+      "id": "234D",
+      "title": "The Last of Us Part IV",
+      "category": "action",
+      "rating": null,
+      "companyId": "3456"
+    },
+    {
+      "id": "567E",
+      "title": "Spider-Man: New York Nights",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "3456"
+    },
+    {
+      "id": "890F",
+      "title": "Assassin's Creed Mirage 2",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "4567"
+    },
+    {
+      "id": "123G",
+      "title": "Riders Republic 2",
+      "category": "racing",
+      "rating": null,
+      "companyId": "4567"
+    },
+    {
+      "id": "456H",
+      "title": "FIFA 27",
+      "category": "sports",
+      "rating": null,
+      "companyId": "5678"
+    },
+    {
+      "id": "012J",
+      "title": "Sonic Frontiers 2",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "6789"
+    },
+    {
+      "id": "345K",
+      "title": "Sega Rally 8",
+      "category": "racing",
+      "rating": null,
+      "companyId": "6789"
+    },
+    {
+      "id": "678L",
+      "title": "Street Fighter 7",
+      "category": "fighting",
+      "rating": 10,
+      "companyId": "7890"
+    },
+    {
+      "id": "901M",
+      "title": "Devil May Cry 6",
+      "category": "action",
+      "rating": null,
+      "companyId": "7890"
+    },
+    {
+      "title": "Metroid Prime 4",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "1234",
+      "id": "oJQMDw3"
     }
   ]
 }
