@@ -8,7 +8,7 @@
       "year": null,
       "location": "Atlantic Ocean",
       "status": "Legend",
-      "image": "",
+      "image": "/mysteries/bermuda.jpg",
       "description": "One of the world's most famous maritime mysteries, associated with unexplained disappearances.",
       "story": [
         "The Bermuda Triangle is a loosely defined region of the Atlantic Ocean between Florida, Bermuda and Puerto Rico. For decades, it has been associated with stories of ships and aircraft disappearing under mysterious circumstances.",
@@ -26,7 +26,7 @@
           "event": "The term Bermuda Triangle becomes widely popularized."
         },
         {
-          "year": "1970s",
+          "year": "1970",
           "event": "Books and documentaries transform the region into a worldwide mystery."
         }
       ],
@@ -53,7 +53,7 @@
       "year": -30,
       "location": "Egypt",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/cleopatra.jpg",
       "description": "The final resting place of Cleopatra VII remains one of archaeology's greatest unanswered questions.",
       "story": [
         "Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt. After her defeat by Octavian, she died in Alexandria in 30 BCE.",
@@ -99,7 +99,7 @@
       "year": null,
       "location": "Brazil",
       "status": "Legend",
-      "image": "",
+      "image": "/mysteries/setealem.jpg",
       "description": "A Brazilian urban legend about a disturbing parallel world that people supposedly enter by accident.",
       "story": [
         "Setealém is a Brazilian urban legend describing a strange reality that supposedly exists alongside our own.",
@@ -142,7 +142,7 @@
       "year": null,
       "location": "Unknown",
       "status": "Legend",
-      "image": "",
+      "image": "/mysteries/atlantis.jpg",
       "description": "A legendary civilization described by Plato that supposedly disappeared beneath the ocean.",
       "story": [
         "Atlantis is one of history's most famous lost civilizations. Its story originates in the writings of the ancient Greek philosopher Plato.",
@@ -183,7 +183,7 @@
       "year": 2014,
       "location": "Indian Ocean",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/mh370.jpg",
       "description": "A passenger aircraft disappeared in 2014, becoming one of aviation's greatest mysteries.",
       "story": [
         "On March 8, 2014, Malaysia Airlines Flight MH370 departed Kuala Lumpur for Beijing with 239 people aboard.",
@@ -230,7 +230,7 @@
       "year": 1977,
       "location": "Space",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/wow-signal.jpg",
       "description": "A mysterious radio signal detected in 1977 whose origin remains unconfirmed.",
       "story": [
         "On August 15, 1977, the Big Ear radio telescope at Ohio State University detected an unusually strong narrowband radio signal.",
@@ -273,7 +273,7 @@
       "year": 1400,
       "location": "Europe",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/voynich.jpg",
       "description": "An illustrated manuscript written in an undeciphered writing system.",
       "story": [
         "The Voynich Manuscript is a mysterious illustrated book written in an unknown script.",
@@ -320,7 +320,7 @@
       "year": null,
       "location": "Scotland",
       "status": "Legend",
-      "image": "",
+      "image": "/mysteries/loch-ness.jpg",
       "description": "The legendary creature supposedly inhabiting Scotland's Loch Ness.",
       "story": [
         "Loch Ness is a deep freshwater lake in the Scottish Highlands, famous for stories of a mysterious creature known as Nessie.",
@@ -366,7 +366,7 @@
       "year": -2600,
       "location": "Egypt",
       "status": "Partially Explained",
-      "image": "",
+      "image": "/mysteries/pyramids.jpg",
       "description": "The construction and internal architecture of the Great Pyramid continue to inspire research.",
       "story": [
         "The Great Pyramid of Giza was built during the reign of Pharaoh Khufu in ancient Egypt.",
@@ -408,7 +408,7 @@
       "year": 1959,
       "location": "Russia",
       "status": "Partially Explained",
-      "image": "",
+      "image": "/mysteries/dyatlov.jpg",
       "description": "The mysterious deaths of nine hikers in the Ural Mountains.",
       "story": [
         "In February 1959, nine experienced hikers died during an expedition in the northern Ural Mountains.",
@@ -454,7 +454,7 @@
       "year": 1872,
       "location": "Atlantic Ocean",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/mary-celeste.jpg",
       "description": "A merchant ship discovered abandoned in the Atlantic Ocean.",
       "story": [
         "In December 1872, the merchant ship Mary Celeste was discovered drifting in the Atlantic Ocean.",
@@ -496,7 +496,7 @@
       "year": null,
       "location": "Peru",
       "status": "Partially Explained",
-      "image": "",
+      "image": "/mysteries/nazca.jpg",
       "description": "Enormous ancient geoglyphs whose complete purpose remains debated.",
       "story": [
         "The Nazca Lines are a collection of enormous geoglyphs created in the desert of southern Peru.",
@@ -538,7 +538,7 @@
       "year": 1900,
       "location": "Scotland",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/flannan.jpg",
       "description": "Three lighthouse keepers disappeared from a remote Scottish island.",
       "story": [
         "In December 1900, three lighthouse keepers disappeared from the Flannan Isles, a remote group of islands off Scotland.",
@@ -580,7 +580,7 @@
       "year": 1966,
       "location": "United States",
       "status": "Legend",
-      "image": "",
+      "image": "/mysteries/mothman.jpg",
       "description": "A mysterious winged creature reported in West Virginia during the 1960s.",
       "story": [
         "In 1966, residents of Point Pleasant, West Virginia, began reporting sightings of a strange winged figure.",
@@ -622,7 +622,7 @@
       "year": 1937,
       "location": "Pacific Ocean",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/amelia.jpg",
       "description": "The pioneering aviator disappeared during an attempt to fly around the world.",
       "story": [
         "Amelia Earhart was one of the most famous aviators of the twentieth century.",
@@ -664,7 +664,7 @@
       "year": null,
       "location": "Romania",
       "status": "Legend",
-      "image": "",
+      "image": "/mysteries/hoia-baciu.jpg",
       "description": "A Romanian forest famous for unusual trees and paranormal folklore.",
       "story": [
         "Hoia Baciu is a forest near Cluj-Napoca in Romania.",
@@ -706,7 +706,7 @@
       "year": -100,
       "location": "Greece",
       "status": "Partially Explained",
-      "image": "",
+      "image": "/mysteries/antikythera.jpg",
       "description": "An extraordinary ancient Greek mechanism used to model astronomical cycles.",
       "story": [
         "The Antikythera Mechanism was discovered in a shipwreck near the Greek island of Antikythera in 1901.",
@@ -748,7 +748,7 @@
       "year": 1590,
       "location": "United States",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/roanoke.jpg",
       "description": "An English colony was found abandoned, leaving questions about its inhabitants.",
       "story": [
         "In 1587, English settlers established a colony on Roanoke Island in present-day North Carolina.",
@@ -790,7 +790,7 @@
       "year": 2017,
       "location": "Solar System",
       "status": "Partially Explained",
-      "image": "",
+      "image": "/mysteries/oumuamua.jpg",
       "description": "The first recognized interstellar object observed passing through our Solar System.",
       "story": [
         "In October 2017, astronomers discovered an object moving through the Solar System on a trajectory indicating an origin beyond it.",
@@ -832,7 +832,7 @@
       "year": 1966,
       "location": "Brazil",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/lead-masks.jpg",
       "description": "Two men were found dead in Brazil wearing mysterious lead eye masks.",
       "story": [
         "In August 1966, the bodies of two Brazilian men were discovered on a hill near Niterói.",
@@ -875,7 +875,7 @@
       "year": 1996,
       "location": "Brazil",
       "status": "Legend",
-      "image": "",
+      "image": "/mysteries/varginha.jpg",
       "description": "A famous Brazilian story involving alleged sightings of an extraterrestrial creature.",
       "story": [
         "In January 1996, residents of Varginha, Brazil, reported sightings of a strange creature.",
@@ -917,7 +917,7 @@
       "year": null,
       "location": "Canada",
       "status": "Legend",
-      "image": "",
+      "image": "/mysteries/oak-island.jpg",
       "description": "A Canadian island associated with centuries of treasure-hunting stories.",
       "story": [
         "Oak Island, located in Nova Scotia, Canada, has attracted treasure hunters for generations.",
@@ -963,7 +963,7 @@
       "year": 1922,
       "location": "Egypt",
       "status": "Legend",
-      "image": "",
+      "image": "/mysteries/tutankhamun.jpg",
       "description": "The legendary curse supposedly connected to the discovery of Tutankhamun's tomb.",
       "story": [
         "In 1922, archaeologist Howard Carter discovered the largely intact tomb of Pharaoh Tutankhamun.",
@@ -1005,7 +1005,7 @@
       "year": null,
       "location": "Greece",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/phaistos.jpg",
       "description": "A Bronze Age clay disc covered with mysterious symbols.",
       "story": [
         "The Phaistos Disc was discovered in 1908 at the Minoan palace of Phaistos on Crete.",
@@ -1048,7 +1048,7 @@
       "year": null,
       "location": "Norway",
       "status": "Partially Explained",
-      "image": "",
+      "image": "/mysteries/hessdalen.jpg",
       "description": "Unusual luminous phenomena observed in a Norwegian valley.",
       "story": [
         "The Hessdalen Valley in Norway is known for reports of unusual lights appearing in the sky.",
@@ -1090,7 +1090,7 @@
       "year": 1971,
       "location": "United States",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/db-cooper.jpg",
       "description": "An unidentified hijacker escaped from an aircraft with ransom money.",
       "story": [
         "On November 24, 1971, a man using the name Dan Cooper hijacked a commercial aircraft in the United States.",
@@ -1137,7 +1137,7 @@
       "year": 1978,
       "location": "United States",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/yuba-county.jpg",
       "description": "Five men disappeared after attending a basketball game in California.",
       "story": [
         "In February 1978, five men from Yuba County, California, disappeared after attending a basketball game.",
@@ -1184,7 +1184,7 @@
       "year": null,
       "location": "Universe",
       "status": "Unsolved",
-      "image": "",
+      "image": "/mysteries/fermi.jpg",
       "description": "Why have we found no confirmed evidence of extraterrestrial civilizations?",
       "story": [
         "The observable universe contains an enormous number of galaxies, stars and planets.",
@@ -1227,7 +1227,7 @@
       "year": 1518,
       "location": "France",
       "status": "Partially Explained",
-      "image": "",
+      "image": "/mysteries/dancing-plague.jpg",
       "description": "A historical episode in which people reportedly danced compulsively in Strasbourg.",
       "story": [
         "In 1518, an unusual episode occurred in Strasbourg, then part of the Holy Roman Empire and now located in France.",
@@ -1269,7 +1269,7 @@
       "year": null,
       "location": "United States",
       "status": "Legend",
-      "image": "",
+      "image": "/mysteries/black-eyed-children.jpg",
       "description": "An internet legend about mysterious children with completely black eyes.",
       "story": [
         "The Black-Eyed Children are figures from modern internet horror folklore.",
@@ -1844,6 +1844,6 @@
       "author": "Urban legend",
       "source": "documented",
       "evidenceLevel": "Speculative"
-        }
+    }
   ]
 }
