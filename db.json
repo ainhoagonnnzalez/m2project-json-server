@@ -5,7 +5,7 @@
       "title": "The Bermuda Triangle",
       "subtitle": "Where ships and aircraft vanish into legend.",
       "category": "Disappearances",
-      "year": null,
+      "year": "1945",
       "location": "Atlantic Ocean",
       "status": "Legend",
       "image": "/mysteries/bermuda.jpg",
@@ -43,14 +43,59 @@
       "unansweredQuestions": [
         "What exactly happened to Flight 19?",
         "Why did the Bermuda Triangle become such a powerful legend?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El Triángulo de las Bermudas",
+          "subtitle": "Donde barcos y aviones desaparecen y se convierten en leyenda.",
+          "category": "Desapariciones",
+          "location": "Océano Atlántico",
+          "status": "Leyenda",
+          "description": "Uno de los misterios marítimos más famosos del mundo, asociado a desapariciones inexplicables.",
+          "story": [
+            "El Triángulo de las Bermudas es una región del Atlántico delimitada aproximadamente por Florida, las Bermudas y Puerto Rico. Durante décadas se ha relacionado con desapariciones misteriosas de barcos y aviones.",
+            "Uno de los sucesos más conocidos ocurrió en diciembre de 1945, cuando cinco aviones de la Marina estadounidense desaparecieron durante una misión de entrenamiento llamada Vuelo 19. También desapareció un avión de rescate.",
+            "Con el tiempo, distintos autores relacionaron accidentes marítimos y aéreos con la zona, alimentando leyendas sobre anomalías magnéticas, fuerzas sobrenaturales e incluso extraterrestres.",
+            "Sin embargo, las autoridades científicas y marítimas no han encontrado pruebas convincentes de que allí se produzcan más desapariciones que en otras zonas oceánicas muy transitadas."
+          ],
+          "timeline": [
+            {
+              "year": "1945",
+              "event": "El Vuelo 19 desaparece durante una misión de entrenamiento."
+            },
+            {
+              "year": "1964",
+              "event": "Se populariza ampliamente el término «Triángulo de las Bermudas»."
+            },
+            {
+              "year": "1970",
+              "event": "Libros y documentales convierten la región en un misterio mundial."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Vuelo 19",
+              "description": "Cinco aviones de la Marina estadounidense desaparecieron durante una misión de entrenamiento en diciembre de 1945."
+            },
+            {
+              "title": "Registros históricos de accidentes",
+              "description": "Existen incidentes documentados, pero no demuestran una concentración anormal de desapariciones."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué ocurrió exactamente con el Vuelo 19?",
+            "¿Por qué el Triángulo de las Bermudas se convirtió en una leyenda tan poderosa?"
+          ],
+          "year": "1945"
+        }
+      }
     },
     {
       "id": "2",
       "title": "The Lost Tomb of Cleopatra",
       "subtitle": "Where is Egypt's last queen buried?",
       "category": "Ancient Mysteries",
-      "year": -30,
+      "year": "30 BCE",
       "location": "Egypt",
       "status": "Unsolved",
       "image": "/mysteries/cleopatra.jpg",
@@ -89,14 +134,60 @@
         "Where was Cleopatra buried?",
         "Could her tomb lie beneath modern Alexandria?",
         "Was the tomb destroyed or submerged?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "La tumba perdida de Cleopatra",
+          "subtitle": "¿Dónde está enterrada la última reina de Egipto?",
+          "category": "Misterios antiguos",
+          "location": "Egipto",
+          "status": "Sin resolver",
+          "description": "El lugar de descanso de Cleopatra VII sigue siendo uno de los grandes enigmas de la arqueología.",
+          "story": [
+            "Cleopatra VII fue la última gobernante efectiva del reino ptolemaico de Egipto. Tras su derrota frente a Octavio, murió en Alejandría en el año 30 a. C.",
+            "Las fuentes antiguas sugieren que Cleopatra fue enterrada junto a Marco Antonio, pero nunca se ha identificado de forma concluyente la ubicación de su tumba.",
+            "Los terremotos, los cambios de la costa y siglos de construcciones transformaron la antigua Alejandría. Algunas zonas arqueológicas están hoy bajo el agua o bajo la ciudad moderna.",
+            "Los investigadores han estudiado varios lugares posibles, incluido el complejo de Taposiris Magna. Aunque se han realizado descubrimientos importantes, todavía no se ha encontrado una tumba confirmada de Cleopatra."
+          ],
+          "timeline": [
+            {
+              "year": "30 a. C.",
+              "event": "Cleopatra VII muere en Alejandría."
+            },
+            {
+              "year": "Antigüedad",
+              "event": "Los historiadores antiguos describen su entierro junto a Marco Antonio."
+            },
+            {
+              "year": "Época moderna",
+              "event": "Las investigaciones arqueológicas buscan su sepultura perdida."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Relatos históricos antiguos",
+              "description": "Los autores antiguos describieron su muerte y entierro, aunque escribieron sus relatos después de los acontecimientos."
+            },
+            {
+              "title": "Excavaciones de Taposiris Magna",
+              "description": "Se han descubierto estructuras y objetos antiguos, pero ninguno identifica de forma concluyente su tumba."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Dónde fue enterrada Cleopatra?",
+            "¿Podría estar su tumba bajo la Alejandría actual?",
+            "¿Fue destruida o quedó sumergida?"
+          ],
+          "year": "30 a. C."
+        }
+      }
     },
     {
       "id": "3",
       "title": "Setealém",
       "subtitle": "What if another reality existed alongside ours?",
       "category": "Urban Legends",
-      "year": null,
+      "year": "2010",
       "location": "Brazil",
       "status": "Legend",
       "image": "/mysteries/setealem.jpg",
@@ -132,14 +223,57 @@
         "Why do people share stories about parallel realities?",
         "Could unusual memories and dreams influence these experiences?",
         "How did the Setealém legend become popular?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "Setealém",
+          "subtitle": "¿Y si existiera otra realidad junto a la nuestra?",
+          "category": "Leyendas urbanas",
+          "location": "Brasil",
+          "status": "Leyenda",
+          "description": "Leyenda urbana brasileña sobre un inquietante mundo paralelo al que algunas personas aseguran entrar por accidente.",
+          "story": [
+            "Setealém es una leyenda urbana brasileña que describe una realidad extraña que supuestamente existe junto a la nuestra.",
+            "Según relatos compartidos en internet, algunas personas afirman haber entrado por accidente en ese mundo a través de lugares cotidianos como autobuses, calles o edificios.",
+            "Los testimonios describen ciudades familiares pero con diferencias perturbadoras, habitantes extraños y la sensación constante de que algo no encaja.",
+            "Algunas historias hablan de personas que luchan por regresar a su realidad; otras cuentan encuentros breves con lugares que parecen existir fuera del espacio y el tiempo habituales.",
+            "No existen pruebas verificadas de forma independiente de que Setealém exista. Estas historias se entienden mejor como folclore brasileño contemporáneo de internet."
+          ],
+          "timeline": [
+            {
+              "year": "Era de internet",
+              "event": "Circulan historias sobre Setealém en comunidades brasileñas de internet."
+            },
+            {
+              "year": "Años recientes",
+              "event": "La leyenda se difunde mediante vídeos, redes sociales y relatos digitales."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Testimonios en internet",
+              "description": "Relatos de personas que aseguran haber vivido experiencias en Setealém, sin verificación independiente."
+            },
+            {
+              "title": "Folclore digital",
+              "description": "La leyenda se ha desarrollado mediante historias compartidas y narraciones ficticias en internet."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Por qué compartimos historias sobre realidades paralelas?",
+            "¿Pueden los recuerdos extraños y los sueños influir en estas experiencias?",
+            "¿Cómo se popularizó la leyenda de Setealém?"
+          ],
+          "year": "2010"
+        }
+      }
     },
     {
       "id": "4",
       "title": "The Lost City of Atlantis",
       "subtitle": "The civilization swallowed by the sea.",
       "category": "Ancient Mysteries",
-      "year": null,
+      "year": "360 BCE",
       "location": "Unknown",
       "status": "Legend",
       "image": "/mysteries/atlantis.jpg",
@@ -173,14 +307,55 @@
       "unansweredQuestions": [
         "Was Atlantis entirely fictional?",
         "Could a real natural disaster have inspired the legend?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "La ciudad perdida de la Atlántida",
+          "subtitle": "La civilización que el mar se tragó.",
+          "category": "Misterios antiguos",
+          "location": "Desconocida",
+          "status": "Leyenda",
+          "description": "Una civilización legendaria descrita por Platón que supuestamente desapareció bajo el océano.",
+          "story": [
+            "La Atlántida es una de las civilizaciones perdidas más famosas de la historia. Su relato procede de los escritos del filósofo griego Platón.",
+            "Platón describió una poderosa civilización insular que acabó cayendo en la decadencia moral y fue destruida por acontecimientos naturales catastróficos.",
+            "Durante siglos, exploradores y escritores han buscado un lugar real que pudiera haber inspirado la historia.",
+            "Algunos investigadores han propuesto vínculos con antiguas civilizaciones mediterráneas, especialmente la minoica. Sin embargo, ninguna prueba arqueológica confirma que la Atlántida existiera tal como la describió Platón."
+          ],
+          "timeline": [
+            {
+              "year": "Siglo IV a. C.",
+              "event": "Platón describe la Atlántida en sus diálogos."
+            },
+            {
+              "year": "Época moderna",
+              "event": "Se popularizan numerosas ubicaciones e interpretaciones propuestas."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Diálogos de Platón",
+              "description": "El relato escrito más antiguo que se conserva sobre la Atlántida aparece en las obras de Platón."
+            },
+            {
+              "title": "Investigaciones arqueológicas",
+              "description": "Ningún descubrimiento arqueológico ha demostrado de forma concluyente la existencia de la Atlántida."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Fue la Atlántida completamente ficticia?",
+            "¿Pudo una catástrofe natural real inspirar la leyenda?"
+          ],
+          "year": "360 a. C."
+        }
+      }
     },
     {
       "id": "5",
       "title": "Flight MH370",
       "subtitle": "239 people. One aircraft. No final answer.",
       "category": "Disappearances",
-      "year": 2014,
+      "year": "2014",
       "location": "Indian Ocean",
       "status": "Unsolved",
       "image": "/mysteries/mh370.jpg",
@@ -220,14 +395,61 @@
         "What caused the aircraft to change course?",
         "Where is the main wreckage?",
         "What happened during its final hours?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "Vuelo MH370",
+          "subtitle": "239 personas. Un avión. Ninguna respuesta definitiva.",
+          "category": "Desapariciones",
+          "location": "Océano Índico",
+          "status": "Sin resolver",
+          "description": "Un avión de pasajeros desapareció en 2014 y se convirtió en uno de los mayores misterios de la aviación.",
+          "story": [
+            "El 8 de marzo de 2014, el vuelo MH370 de Malaysia Airlines despegó de Kuala Lumpur rumbo a Pekín con 239 personas a bordo.",
+            "Menos de una hora después, el avión desapareció de los radares civiles. Los análisis posteriores indicaron que siguió volando durante varias horas.",
+            "Los datos de comunicaciones por satélite apuntaron a una ruta que terminaba en el sur del océano Índico. Se organizaron extensas búsquedas internacionales.",
+            "Posteriormente aparecieron restos del avión en costas del Índico occidental, pero no se han recuperado los restos principales ni las cajas negras.",
+            "Las circunstancias exactas de la desaparición siguen sin resolverse."
+          ],
+          "timeline": [
+            {
+              "year": "8 de marzo de 2014",
+              "event": "El MH370 desaparece durante su vuelo a Pekín."
+            },
+            {
+              "year": "2015",
+              "event": "Se encuentran restos del avión en la isla de Reunión."
+            },
+            {
+              "year": "Años posteriores",
+              "event": "Continúan las búsquedas sin localizar los restos principales."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Datos de comunicación por satélite",
+              "description": "Las señales de satélite permitieron estimar la posible trayectoria del avión."
+            },
+            {
+              "title": "Restos recuperados",
+              "description": "Las piezas encontradas en la región del Índico aportan pruebas sobre el destino del aparato."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué hizo que el avión cambiara de rumbo?",
+            "¿Dónde están los restos principales?",
+            "¿Qué ocurrió durante sus últimas horas?"
+          ],
+          "year": "2014"
+        }
+      }
     },
     {
       "id": "6",
       "title": "The Wow! Signal",
       "subtitle": "A message from beyond Earth?",
       "category": "Science & Space",
-      "year": 1977,
+      "year": "1977",
       "location": "Space",
       "status": "Unsolved",
       "image": "/mysteries/wow-signal.jpg",
@@ -263,14 +485,57 @@
         "What produced the signal?",
         "Why was it never detected again?",
         "Could it have originated from an astronomical phenomenon?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "La señal Wow!",
+          "subtitle": "¿Un mensaje procedente de más allá de la Tierra?",
+          "category": "Ciencia y espacio",
+          "location": "Espacio",
+          "status": "Sin resolver",
+          "description": "Una misteriosa señal de radio detectada en 1977 cuyo origen sigue sin confirmarse.",
+          "story": [
+            "El 15 de agosto de 1977, el radiotelescopio Big Ear de la Universidad Estatal de Ohio detectó una señal de radio de banda estrecha inusualmente intensa.",
+            "El astrónomo Jerry Ehman la observó después en un listado informático y escribió «Wow!» junto a los datos.",
+            "La señal duró aproximadamente 72 segundos y parecía proceder de la dirección de Sagitario.",
+            "Pese a repetidas observaciones, nunca se ha vuelto a detectar de forma concluyente la misma señal.",
+            "Su origen sigue siendo desconocido. Se han propuesto explicaciones naturales y humanas, pero no hay pruebas confirmadas de que procediera de una inteligencia extraterrestre."
+          ],
+          "timeline": [
+            {
+              "year": "1977",
+              "event": "El telescopio Big Ear detecta la señal inusual."
+            },
+            {
+              "year": "Décadas posteriores",
+              "event": "Los investigadores intentan identificar su origen."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Registro original de la señal",
+              "description": "Los datos registrados contienen la famosa secuencia asociada a la señal Wow!."
+            },
+            {
+              "title": "Observaciones de radio",
+              "description": "Las búsquedas posteriores no han conseguido reproducir de forma concluyente la señal original."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué produjo la señal?",
+            "¿Por qué nunca volvió a detectarse?",
+            "¿Pudo proceder de un fenómeno astronómico?"
+          ],
+          "year": "1977"
+        }
+      }
     },
     {
       "id": "7",
       "title": "The Voynich Manuscript",
       "subtitle": "The book nobody can read.",
       "category": "Ancient Mysteries",
-      "year": 1400,
+      "year": "1400",
       "location": "Europe",
       "status": "Unsolved",
       "image": "/mysteries/voynich.jpg",
@@ -310,14 +575,61 @@
         "Who wrote the manuscript?",
         "What language or system does it contain?",
         "What was its original purpose?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El manuscrito Voynich",
+          "subtitle": "El libro que nadie puede leer.",
+          "category": "Misterios antiguos",
+          "location": "Europa",
+          "status": "Sin resolver",
+          "description": "Un manuscrito ilustrado escrito con un sistema de escritura aún no descifrado.",
+          "story": [
+            "El manuscrito Voynich es un misterioso libro ilustrado escrito con signos desconocidos.",
+            "La datación por radiocarbono sitúa su pergamino a principios del siglo XV.",
+            "Sus páginas contienen plantas extrañas, diagramas astronómicos, figuras humanas y complejas combinaciones de símbolos.",
+            "El manuscrito se hizo ampliamente conocido cuando el librero Wilfrid Voynich lo adquirió en 1912.",
+            "Lingüistas, historiadores y criptógrafos llevan décadas estudiándolo, pero ninguna traducción propuesta ha obtenido aceptación general."
+          ],
+          "timeline": [
+            {
+              "year": "Principios del siglo XV",
+              "event": "Se produce el pergamino utilizado para el manuscrito."
+            },
+            {
+              "year": "1912",
+              "event": "Wilfrid Voynich adquiere el manuscrito."
+            },
+            {
+              "year": "Época moderna",
+              "event": "Los investigadores siguen intentando interpretar su escritura."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Datación por radiocarbono",
+              "description": "Los análisis científicos sitúan el pergamino a principios del siglo XV."
+            },
+            {
+              "title": "Sistema de escritura desconocido",
+              "description": "El manuscrito contiene símbolos y patrones repetidos cuyo significado sigue siendo objeto de debate."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Quién escribió el manuscrito?",
+            "¿Qué lengua o sistema contiene?",
+            "¿Cuál era su propósito original?"
+          ],
+          "year": "1400"
+        }
+      }
     },
     {
       "id": "8",
       "title": "The Loch Ness Monster",
       "subtitle": "What lies beneath the surface?",
       "category": "Urban Legends",
-      "year": null,
+      "year": "1933",
       "location": "Scotland",
       "status": "Legend",
       "image": "/mysteries/loch-ness.jpg",
@@ -356,14 +668,60 @@
       "unansweredQuestions": [
         "What explains the reported sightings?",
         "Why has the legend survived for so long?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El monstruo del lago Ness",
+          "subtitle": "¿Qué se esconde bajo la superficie?",
+          "category": "Leyendas urbanas",
+          "location": "Escocia",
+          "status": "Leyenda",
+          "description": "La criatura legendaria que supuestamente habita el lago Ness de Escocia.",
+          "story": [
+            "El lago Ness es un profundo lago de agua dulce de las Tierras Altas escocesas, famoso por los relatos sobre una criatura misteriosa llamada Nessie.",
+            "El interés internacional moderno creció durante los años treinta, cuando los periódicos publicaron supuestos avistamientos.",
+            "Fotografías, testimonios y exploraciones con sonar convirtieron la leyenda en un fenómeno mundial.",
+            "Una de las imágenes más famosas, conocida como la «fotografía del cirujano», resultó ser un montaje.",
+            "Las investigaciones científicas no han encontrado pruebas fiables de que viva en el lago un gran animal desconocido."
+          ],
+          "timeline": [
+            {
+              "year": "1933",
+              "event": "Los informes modernos dan fama internacional al monstruo del lago Ness."
+            },
+            {
+              "year": "1934",
+              "event": "Se publica la famosa «fotografía del cirujano»."
+            },
+            {
+              "year": "Años noventa",
+              "event": "Se revela públicamente que la fotografía era un engaño."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Testimonios de testigos",
+              "description": "Numerosas personas han descrito formas o movimientos extraños en el lago."
+            },
+            {
+              "title": "Estudios científicos",
+              "description": "Las investigaciones con sonar y ADN ambiental no han confirmado la presencia de una gran criatura desconocida."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué explica los supuestos avistamientos?",
+            "¿Por qué ha sobrevivido tanto tiempo la leyenda?"
+          ],
+          "year": "1933"
+        }
+      }
     },
     {
       "id": "9",
       "title": "The Great Pyramid of Giza",
       "subtitle": "An ancient engineering masterpiece.",
       "category": "Ancient Mysteries",
-      "year": -2600,
+      "year": "2600 BCE",
       "location": "Egypt",
       "status": "Partially Explained",
       "image": "/mysteries/pyramids.jpg",
@@ -398,14 +756,56 @@
       "unansweredQuestions": [
         "Which construction techniques were used at every stage?",
         "What purposes did the newly detected internal spaces serve?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "La Gran Pirámide de Guiza",
+          "subtitle": "Una obra maestra de la ingeniería antigua.",
+          "category": "Misterios antiguos",
+          "location": "Egipto",
+          "status": "Parcialmente explicado",
+          "description": "La construcción y arquitectura interior de la Gran Pirámide siguen inspirando investigaciones.",
+          "story": [
+            "La Gran Pirámide de Guiza se construyó durante el reinado del faraón Keops en el antiguo Egipto.",
+            "Levantada con millones de bloques de piedra, sigue siendo uno de los logros de ingeniería más impresionantes del mundo antiguo.",
+            "Las pruebas arqueológicas muestran que trabajadores egipcios especializados organizaron la construcción mediante una planificación y métodos de transporte sofisticados.",
+            "Sin embargo, los investigadores siguen estudiando las técnicas exactas utilizadas para mover y colocar las piedras más grandes.",
+            "Las tecnologías modernas de exploración también han identificado espacios interiores desconocidos, lo que plantea nuevas preguntas sobre su arquitectura."
+          ],
+          "timeline": [
+            {
+              "year": "Hacia 2600 a. C.",
+              "event": "Se construye la Gran Pirámide."
+            },
+            {
+              "year": "2017",
+              "event": "Las imágenes mediante muones revelan un gran vacío interior desconocido."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Asentamientos de trabajadores",
+              "description": "Los descubrimientos arqueológicos muestran cómo se organizó la mano de obra que construyó la pirámide."
+            },
+            {
+              "title": "Exploración mediante muones",
+              "description": "Las imágenes modernas han identificado espacios ocultos en la estructura."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué técnicas de construcción se emplearon en cada etapa?",
+            "¿Para qué servían los espacios interiores descubiertos recientemente?"
+          ],
+          "year": "2600 a. C."
+        }
+      }
     },
     {
       "id": "10",
       "title": "The Dyatlov Pass Incident",
       "subtitle": "Nine hikers. One frozen mountain.",
       "category": "Unsolved Cases",
-      "year": 1959,
+      "year": "1959",
       "location": "Russia",
       "status": "Partially Explained",
       "image": "/mysteries/dyatlov.jpg",
@@ -444,14 +844,60 @@
       "unansweredQuestions": [
         "What caused the hikers to leave their tent?",
         "Can natural explanations account for all the evidence?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El incidente del paso Diátlov",
+          "subtitle": "Nueve excursionistas. Una montaña helada.",
+          "category": "Casos sin resolver",
+          "location": "Rusia",
+          "status": "Parcialmente explicado",
+          "description": "La misteriosa muerte de nueve excursionistas en los montes Urales.",
+          "story": [
+            "En febrero de 1959, nueve excursionistas experimentados murieron durante una expedición en el norte de los montes Urales.",
+            "Los equipos de búsqueda encontraron la tienda dañada y abandonada. Algunos excursionistas habían salido sin ropa adecuada para las temperaturas extremas.",
+            "Sus cuerpos aparecieron en distintos lugares y varios presentaban lesiones graves.",
+            "Las circunstancias insólitas alimentaron décadas de especulaciones sobre experimentos militares, fuerzas inexplicables y otras teorías.",
+            "Investigaciones científicas más recientes respaldan explicaciones naturales, incluida una posible avalancha de placa y la exposición posterior al frío extremo."
+          ],
+          "timeline": [
+            {
+              "year": "Febrero de 1959",
+              "event": "El grupo muere durante la expedición."
+            },
+            {
+              "year": "1959",
+              "event": "Los equipos de búsqueda encuentran la tienda abandonada y los cuerpos."
+            },
+            {
+              "year": "Años 2020",
+              "event": "Estudios científicos investigan explicaciones relacionadas con avalanchas."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Tienda abandonada",
+              "description": "La tienda apareció dañada y había indicios de que el grupo la abandonó inesperadamente."
+            },
+            {
+              "title": "Lesiones y condiciones ambientales",
+              "description": "Las investigaciones posteriores han examinado los hallazgos médicos y las condiciones meteorológicas."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué hizo que los excursionistas abandonaran la tienda?",
+            "¿Pueden las explicaciones naturales justificar todas las pruebas?"
+          ],
+          "year": "1959"
+        }
+      }
     },
     {
       "id": "11",
       "title": "The Mary Celeste",
       "subtitle": "The ship that sailed without its crew.",
       "category": "Disappearances",
-      "year": 1872,
+      "year": "1872",
       "location": "Atlantic Ocean",
       "status": "Unsolved",
       "image": "/mysteries/mary-celeste.jpg",
@@ -486,14 +932,56 @@
       "unansweredQuestions": [
         "Why did the crew abandon the ship?",
         "What happened after they left?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El Mary Celeste",
+          "subtitle": "El barco que navegaba sin tripulación.",
+          "category": "Desapariciones",
+          "location": "Océano Atlántico",
+          "status": "Sin resolver",
+          "description": "Un buque mercante encontrado abandonado en el océano Atlántico.",
+          "story": [
+            "En diciembre de 1872, el buque mercante Mary Celeste fue encontrado a la deriva en el Atlántico.",
+            "El barco estaba en condiciones suficientes para mantenerse a flote, pero habían desaparecido el capitán, la tripulación y los pasajeros.",
+            "Faltaba el bote salvavidas, lo que sugiere que las personas a bordo pudieron abandonar el barco.",
+            "Los investigadores consideraron varias explicaciones, como el mal tiempo, problemas técnicos y preocupaciones por la carga.",
+            "No hay pruebas definitivas de lo que les ocurrió a las personas que viajaban a bordo."
+          ],
+          "timeline": [
+            {
+              "year": "Noviembre de 1872",
+              "event": "El Mary Celeste zarpa de Nueva York."
+            },
+            {
+              "year": "Diciembre de 1872",
+              "event": "El barco es encontrado abandonado."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Bote salvavidas desaparecido",
+              "description": "La ausencia del bote pequeño sugiere que la tripulación pudo abandonar el buque."
+            },
+            {
+              "title": "Estado del barco",
+              "description": "El barco fue hallado a flote y conservaba gran parte de su carga."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Por qué abandonó la tripulación el barco?",
+            "¿Qué ocurrió después de que se marcharan?"
+          ],
+          "year": "1872"
+        }
+      }
     },
     {
       "id": "12",
       "title": "The Nazca Lines",
       "subtitle": "Messages written across the desert.",
       "category": "Ancient Mysteries",
-      "year": null,
+      "year": "1927",
       "location": "Peru",
       "status": "Partially Explained",
       "image": "/mysteries/nazca.jpg",
@@ -528,14 +1016,56 @@
       "unansweredQuestions": [
         "What did each figure represent?",
         "How were the lines used in ancient ceremonies?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "Las líneas de Nazca",
+          "subtitle": "Mensajes dibujados sobre el desierto.",
+          "category": "Misterios antiguos",
+          "location": "Perú",
+          "status": "Parcialmente explicado",
+          "description": "Enormes geoglifos antiguos cuyo propósito completo sigue siendo objeto de debate.",
+          "story": [
+            "Las líneas de Nazca son un conjunto de enormes geoglifos creados en el desierto del sur de Perú.",
+            "Los diseños incluyen animales, plantas, figuras geométricas y largas líneas rectas.",
+            "Se realizaron retirando las piedras oscuras de la superficie para dejar visible el suelo más claro.",
+            "Los arqueólogos relacionan muchas figuras con la cultura nazca y proponen funciones ceremoniales, sociales y religiosas.",
+            "Aunque su origen humano está demostrado, el significado exacto de cada diseño sigue siendo incierto."
+          ],
+          "timeline": [
+            {
+              "year": "Antigüedad",
+              "event": "Las comunidades nazcas crean grandes geoglifos en el desierto."
+            },
+            {
+              "year": "Siglo XX",
+              "event": "La observación aérea da fama internacional a las figuras."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Contexto arqueológico",
+              "description": "Los geoglifos están relacionados con culturas antiguas del sur de Perú."
+            },
+            {
+              "title": "Métodos de construcción",
+              "description": "Las figuras se realizaron retirando piedras de la superficie del desierto."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué representaba cada figura?",
+            "¿Cómo se utilizaban las líneas en las ceremonias antiguas?"
+          ],
+          "year": "1927"
+        }
+      }
     },
     {
       "id": "13",
       "title": "The Flannan Isles Lighthouse",
       "subtitle": "Three keepers. An empty lighthouse.",
       "category": "Disappearances",
-      "year": 1900,
+      "year": "1900",
       "location": "Scotland",
       "status": "Unsolved",
       "image": "/mysteries/flannan.jpg",
@@ -570,14 +1100,56 @@
       "unansweredQuestions": [
         "What sequence of events led to the disappearance?",
         "Why were all three keepers exposed to the danger?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El faro de las islas Flannan",
+          "subtitle": "Tres fareros. Un faro vacío.",
+          "category": "Desapariciones",
+          "location": "Escocia",
+          "status": "Sin resolver",
+          "description": "Tres fareros desaparecieron de una remota isla escocesa.",
+          "story": [
+            "En diciembre de 1900, tres fareros desaparecieron de las islas Flannan, un remoto archipiélago frente a Escocia.",
+            "Cuando llegó el barco de relevo, el faro estaba desatendido y no había rastro de los hombres.",
+            "Los investigadores encontraron señales de mal tiempo y daños cerca de la zona de desembarco.",
+            "La explicación más aceptada es que unas olas muy fuertes arrastraron a los hombres al mar.",
+            "Nunca se recuperaron sus cuerpos, por lo que algunos detalles de la tragedia siguen siendo desconocidos."
+          ],
+          "timeline": [
+            {
+              "year": "Diciembre de 1900",
+              "event": "Desaparecen los tres fareros."
+            },
+            {
+              "year": "26 de diciembre de 1900",
+              "event": "Una tripulación de relevo encuentra el faro abandonado."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Daños causados por la tormenta",
+              "description": "Los daños cerca del desembarcadero indicaban la presencia de olas extremadamente potentes."
+            },
+            {
+              "title": "Investigación oficial",
+              "description": "Los investigadores concluyeron que probablemente los hombres fueron arrastrados al mar."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué sucesión de acontecimientos provocó la desaparición?",
+            "¿Por qué se expusieron los tres fareros al peligro?"
+          ],
+          "year": "1900"
+        }
+      }
     },
     {
       "id": "14",
       "title": "The Mothman",
       "subtitle": "The creature seen before disaster.",
       "category": "Urban Legends",
-      "year": 1966,
+      "year": "1966",
       "location": "United States",
       "status": "Legend",
       "image": "/mysteries/mothman.jpg",
@@ -612,14 +1184,56 @@
       "unansweredQuestions": [
         "What did the witnesses see?",
         "How did the creature become connected to the bridge disaster?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El hombre polilla",
+          "subtitle": "La criatura vista antes del desastre.",
+          "category": "Leyendas urbanas",
+          "location": "Estados Unidos",
+          "status": "Leyenda",
+          "description": "Una misteriosa criatura alada avistada en Virginia Occidental durante los años sesenta.",
+          "story": [
+            "En 1966, los habitantes de Point Pleasant, Virginia Occidental, empezaron a informar de avistamientos de una extraña figura alada.",
+            "Los testigos describieron una criatura grande con ojos rojos brillantes, aunque los relatos variaban.",
+            "La cultura popular relacionó los avistamientos con el derrumbe del puente Silver Bridge en 1967.",
+            "Algunas historias presentaron a la criatura como una advertencia sobrenatural de una catástrofe.",
+            "No existen pruebas fiables de la existencia de una criatura desconocida. El hombre polilla sigue siendo un ejemplo famoso del folclore estadounidense moderno."
+          ],
+          "timeline": [
+            {
+              "year": "1966",
+              "event": "Los avistamientos del hombre polilla atraen la atención pública."
+            },
+            {
+              "year": "1967",
+              "event": "Se derrumba el puente Silver Bridge."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Relatos de testigos",
+              "description": "Varias personas afirmaron haber visto una figura alada inusual."
+            },
+            {
+              "title": "Derrumbe histórico del puente",
+              "description": "El desastre del Silver Bridge fue real, pero ninguna prueba lo vincula con una criatura sobrenatural."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué vieron los testigos?",
+            "¿Cómo se relacionó a la criatura con el desastre del puente?"
+          ],
+          "year": "1966"
+        }
+      }
     },
     {
       "id": "15",
       "title": "Amelia Earhart's Disappearance",
       "subtitle": "The flight that never returned.",
       "category": "Disappearances",
-      "year": 1937,
+      "year": "1937",
       "location": "Pacific Ocean",
       "status": "Unsolved",
       "image": "/mysteries/amelia.jpg",
@@ -654,14 +1268,56 @@
       "unansweredQuestions": [
         "Where did the aircraft crash?",
         "Could any physical remains still be recovered?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "La desaparición de Amelia Earhart",
+          "subtitle": "El vuelo que nunca regresó.",
+          "category": "Desapariciones",
+          "location": "Océano Pacífico",
+          "status": "Sin resolver",
+          "description": "La aviadora pionera desapareció durante un intento de dar la vuelta al mundo.",
+          "story": [
+            "Amelia Earhart fue una de las aviadoras más famosas del siglo XX.",
+            "En julio de 1937, ella y el navegante Fred Noonan desaparecieron mientras intentaban llegar a la isla Howland durante un vuelo alrededor del mundo.",
+            "Las comunicaciones por radio indicaban que el avión tenía dificultades para localizar la isla.",
+            "Una gran operación de búsqueda no consiguió encontrar el aparato.",
+            "La explicación principal es que se quedó sin combustible y cayó al Pacífico, aunque se desconoce el lugar exacto."
+          ],
+          "timeline": [
+            {
+              "year": "1937",
+              "event": "Earhart inicia su intento de vuelo alrededor del mundo."
+            },
+            {
+              "year": "2 de julio de 1937",
+              "event": "Earhart y Noonan desaparecen cerca de la isla Howland."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Transmisiones de radio",
+              "description": "Las comunicaciones aportan información sobre la última posición conocida y los problemas de navegación."
+            },
+            {
+              "title": "Registros de búsqueda",
+              "description": "Las búsquedas realizadas en la época no consiguieron localizar el avión."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Dónde se estrelló el avión?",
+            "¿Podrían recuperarse todavía restos materiales?"
+          ],
+          "year": "1937"
+        }
+      }
     },
     {
       "id": "16",
       "title": "The Hoia Baciu Forest",
       "subtitle": "The forest of unsettling stories.",
       "category": "Urban Legends",
-      "year": null,
+      "year": "1968",
       "location": "Romania",
       "status": "Legend",
       "image": "/mysteries/hoia-baciu.jpg",
@@ -696,14 +1352,56 @@
       "unansweredQuestions": [
         "What explains the unusual tree shapes?",
         "Why has the forest developed such a supernatural reputation?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El bosque de Hoia Baciu",
+          "subtitle": "El bosque de las historias inquietantes.",
+          "category": "Leyendas urbanas",
+          "location": "Rumanía",
+          "status": "Leyenda",
+          "description": "Un bosque rumano famoso por sus árboles extraños y su folclore paranormal.",
+          "story": [
+            "Hoia Baciu es un bosque situado cerca de Cluj-Napoca, en Rumanía.",
+            "Las formas inusuales de sus árboles y su aspecto atmosférico lo han convertido en escenario habitual de historias paranormales.",
+            "Algunos visitantes han descrito sensaciones extrañas, luces inexplicables y experiencias inusuales.",
+            "Varias leyendas hablan de desapariciones o encuentros misteriosos, pero esas afirmaciones carecen de verificación fiable.",
+            "El bosque se ha convertido en un destino para visitantes interesados en el folclore y los misterios sobrenaturales."
+          ],
+          "timeline": [
+            {
+              "year": "Siglo XX",
+              "event": "El bosque adquiere fama por las historias paranormales."
+            },
+            {
+              "year": "Época moderna",
+              "event": "El turismo y los medios digitales difunden su reputación misteriosa."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Vegetación inusual",
+              "description": "El bosque contiene árboles con formas características."
+            },
+            {
+              "title": "Testimonios de visitantes",
+              "description": "Se han descrito experiencias paranormales, pero no se han verificado de forma independiente."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué explica las formas inusuales de los árboles?",
+            "¿Por qué ha adquirido el bosque una reputación tan sobrenatural?"
+          ],
+          "year": "1968"
+        }
+      }
     },
     {
       "id": "17",
       "title": "The Antikythera Mechanism",
       "subtitle": "The ancient machine ahead of its time.",
       "category": "Ancient Mysteries",
-      "year": -100,
+      "year": "100 BCE",
       "location": "Greece",
       "status": "Partially Explained",
       "image": "/mysteries/antikythera.jpg",
@@ -738,14 +1436,56 @@
       "unansweredQuestions": [
         "Who designed the mechanism?",
         "What did its missing components look like?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El mecanismo de Anticitera",
+          "subtitle": "La máquina antigua adelantada a su tiempo.",
+          "category": "Misterios antiguos",
+          "location": "Grecia",
+          "status": "Parcialmente explicado",
+          "description": "Un extraordinario mecanismo griego antiguo utilizado para representar ciclos astronómicos.",
+          "story": [
+            "El mecanismo de Anticitera fue descubierto en 1901 en un naufragio cerca de la isla griega de Anticitera.",
+            "Los fragmentos conservados contienen un complejo sistema de engranajes de bronce.",
+            "Los investigadores han establecido que el aparato se diseñó para calcular ciclos astronómicos y predecir acontecimientos celestes.",
+            "Su sofisticación demuestra los extraordinarios conocimientos de ingeniería del mundo griego antiguo.",
+            "Aunque se comprende gran parte de su funcionamiento, se siguen investigando su diseño original y sus componentes perdidos."
+          ],
+          "timeline": [
+            {
+              "year": "Hacia 100 a. C.",
+              "event": "Se cree que se fabrica el mecanismo."
+            },
+            {
+              "year": "1901",
+              "event": "Se recuperan fragmentos del naufragio de Anticitera."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Engranajes de bronce",
+              "description": "Los componentes mecánicos conservados revelan un sistema avanzado de cálculos."
+            },
+            {
+              "title": "Inscripciones antiguas",
+              "description": "Los textos inscritos ofrecen pistas sobre sus funciones astronómicas."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Quién diseñó el mecanismo?",
+            "¿Cómo eran sus componentes desaparecidos?"
+          ],
+          "year": "100 a. C."
+        }
+      }
     },
     {
       "id": "18",
       "title": "The Lost Colony of Roanoke",
       "subtitle": "A settlement that vanished from history.",
       "category": "Disappearances",
-      "year": 1590,
+      "year": "1590",
       "location": "United States",
       "status": "Unsolved",
       "image": "/mysteries/roanoke.jpg",
@@ -780,14 +1520,56 @@
       "unansweredQuestions": [
         "Where did the colonists go?",
         "Did they join nearby Indigenous communities?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "La colonia perdida de Roanoke",
+          "subtitle": "Un asentamiento que desapareció de la historia.",
+          "category": "Desapariciones",
+          "location": "Estados Unidos",
+          "status": "Sin resolver",
+          "description": "Una colonia inglesa fue encontrada abandonada y dejó preguntas sobre sus habitantes.",
+          "story": [
+            "En 1587, colonos ingleses establecieron un asentamiento en la isla de Roanoke, en la actual Carolina del Norte.",
+            "El gobernador John White regresó a Inglaterra en busca de suministros, pero se retrasó varios años.",
+            "Cuando volvió en 1590, el asentamiento estaba abandonado.",
+            "La palabra CROATOAN apareció tallada en un poste, lo que sugería una posible relación con una comunidad indígena cercana.",
+            "Los historiadores creen que los colonos pudieron trasladarse o integrarse en poblaciones locales, pero su destino exacto sigue siendo incierto."
+          ],
+          "timeline": [
+            {
+              "year": "1587",
+              "event": "Los colonos ingleses establecen la colonia."
+            },
+            {
+              "year": "1590",
+              "event": "John White regresa y encuentra el asentamiento abandonado."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Inscripción CROATOAN",
+              "description": "La palabra tallada sugería un posible destino o vínculo con una comunidad cercana."
+            },
+            {
+              "title": "Documentos históricos",
+              "description": "Los documentos describen la colonia y las circunstancias de su abandono."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Adónde fueron los colonos?",
+            "¿Se unieron a comunidades indígenas cercanas?"
+          ],
+          "year": "1590"
+        }
+      }
     },
     {
       "id": "19",
       "title": "ʻOumuamua",
       "subtitle": "A visitor from another star system.",
       "category": "Science & Space",
-      "year": 2017,
+      "year": "2017",
       "location": "Solar System",
       "status": "Partially Explained",
       "image": "/mysteries/oumuamua.jpg",
@@ -822,14 +1604,56 @@
       "unansweredQuestions": [
         "What was ʻOumuamua made of?",
         "What physical process caused its unusual acceleration?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "ʻOumuamua",
+          "subtitle": "Un visitante de otro sistema estelar.",
+          "category": "Ciencia y espacio",
+          "location": "Sistema solar",
+          "status": "Parcialmente explicado",
+          "description": "El primer objeto interestelar reconocido que se observó atravesando nuestro sistema solar.",
+          "story": [
+            "En octubre de 2017, los astrónomos descubrieron un objeto que atravesaba el sistema solar siguiendo una trayectoria que indicaba un origen exterior.",
+            "Bautizado ʻOumuamua, se convirtió en el primer objeto interestelar reconocido de su tipo.",
+            "Las observaciones apuntaron a características físicas inusuales y una pequeña aceleración no gravitatoria.",
+            "Los científicos propusieron varias explicaciones naturales relacionadas con su composición y comportamiento.",
+            "Algunas propuestas especulativas sugirieron un origen artificial, pero no hay pruebas de que ʻOumuamua fuera tecnología extraterrestre."
+          ],
+          "timeline": [
+            {
+              "year": "2017",
+              "event": "Se descubre ʻOumuamua."
+            },
+            {
+              "year": "Años posteriores",
+              "event": "Los científicos estudian modelos que expliquen su movimiento y propiedades físicas."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Trayectoria interestelar",
+              "description": "Su órbita observada indica que procedía de fuera del sistema solar."
+            },
+            {
+              "title": "Aceleración inusual",
+              "description": "Los astrónomos midieron un movimiento que requiere algo más que la gravedad para explicarse."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿De qué estaba hecho ʻOumuamua?",
+            "¿Qué proceso físico causó su aceleración inusual?"
+          ],
+          "year": "2017"
+        }
+      }
     },
     {
       "id": "20",
       "title": "The Lead Masks Case",
       "subtitle": "Two bodies. Two masks. One cryptic note.",
       "category": "Unsolved Cases",
-      "year": 1966,
+      "year": "1966",
       "location": "Brazil",
       "status": "Unsolved",
       "image": "/mysteries/lead-masks.jpg",
@@ -865,14 +1689,57 @@
         "Why were the men wearing lead masks?",
         "What was the purpose of the instructions?",
         "What caused their deaths?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El caso de las máscaras de plomo",
+          "subtitle": "Dos cuerpos. Dos máscaras. Una nota enigmática.",
+          "category": "Casos sin resolver",
+          "location": "Brasil",
+          "status": "Sin resolver",
+          "description": "Dos hombres aparecieron muertos en Brasil con misteriosas máscaras de plomo sobre los ojos.",
+          "story": [
+            "En agosto de 1966, se encontraron los cuerpos de dos brasileños en una colina cerca de Niterói.",
+            "Ambos llevaban unas extrañas máscaras de plomo sobre los ojos.",
+            "Los investigadores encontraron también una nota enigmática con instrucciones que mencionaban una hora concreta y el uso de cápsulas.",
+            "Las circunstancias sugerían que los hombres podían estar participando en un experimento o ritual poco habitual.",
+            "El caso se relacionó con teorías sobre espiritismo y ovnis, pero nunca se estableció una explicación definitiva de sus muertes."
+          ],
+          "timeline": [
+            {
+              "year": "Agosto de 1966",
+              "event": "Los dos hombres aparecen muertos cerca de Niterói."
+            },
+            {
+              "year": "1966",
+              "event": "Los investigadores examinan las máscaras, la nota y las circunstancias."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Máscaras de plomo",
+              "description": "Ambos hombres llevaban máscaras fabricadas con plomo."
+            },
+            {
+              "title": "Nota enigmática",
+              "description": "El mensaje escrito contenía instrucciones inusuales sobre horarios y cápsulas."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Por qué llevaban máscaras de plomo?",
+            "¿Qué propósito tenían las instrucciones?",
+            "¿Qué causó sus muertes?"
+          ],
+          "year": "1966"
+        }
+      }
     },
     {
       "id": "21",
       "title": "The Varginha Incident",
       "subtitle": "Brazil's most famous alien encounter.",
       "category": "Urban Legends",
-      "year": 1996,
+      "year": "1996",
       "location": "Brazil",
       "status": "Legend",
       "image": "/mysteries/varginha.jpg",
@@ -907,14 +1774,56 @@
       "unansweredQuestions": [
         "What did the witnesses actually see?",
         "How did rumors of a military operation develop?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El incidente de Varginha",
+          "subtitle": "El encuentro extraterrestre más famoso de Brasil.",
+          "category": "Leyendas urbanas",
+          "location": "Brasil",
+          "status": "Leyenda",
+          "description": "Una famosa historia brasileña sobre supuestos avistamientos de una criatura extraterrestre.",
+          "story": [
+            "En enero de 1996, habitantes de Varginha, Brasil, informaron de avistamientos de una criatura extraña.",
+            "La historia atrajo rápidamente la atención nacional y circularon rumores de que las autoridades habían capturado a un extraterrestre.",
+            "Los testimonios y la cobertura mediática convirtieron el incidente en uno de los relatos de ovnis más famosos de Brasil.",
+            "Las investigaciones y los análisis escépticos han cuestionado las afirmaciones extraordinarias.",
+            "No existen pruebas verificadas de forma independiente de la presencia de una criatura extraterrestre."
+          ],
+          "timeline": [
+            {
+              "year": "1996",
+              "event": "Surgen informes sobre una criatura extraña en Varginha."
+            },
+            {
+              "year": "Años posteriores",
+              "event": "El incidente pasa a formar parte importante del folclore brasileño sobre ovnis."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Testimonios de testigos",
+              "description": "Varias personas describieron avistamientos extraños, aunque sus relatos diferían."
+            },
+            {
+              "title": "Noticias de prensa",
+              "description": "La cobertura de la época documentó cómo evolucionó la historia."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué vieron realmente los testigos?",
+            "¿Cómo surgieron los rumores de una operación militar?"
+          ],
+          "year": "1996"
+        }
+      }
     },
     {
       "id": "22",
       "title": "The Oak Island Mystery",
       "subtitle": "The treasure that may not exist.",
       "category": "Urban Legends",
-      "year": null,
+      "year": "1795",
       "location": "Canada",
       "status": "Legend",
       "image": "/mysteries/oak-island.jpg",
@@ -953,14 +1862,60 @@
       "unansweredQuestions": [
         "Was valuable treasure ever buried on the island?",
         "What explains the underground features reported by excavators?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El misterio de Oak Island",
+          "subtitle": "El tesoro que quizá no existe.",
+          "category": "Leyendas urbanas",
+          "location": "Canadá",
+          "status": "Leyenda",
+          "description": "Una isla canadiense vinculada durante siglos a historias de búsqueda de tesoros.",
+          "story": [
+            "Oak Island, en Nueva Escocia (Canadá), ha atraído a buscadores de tesoros durante generaciones.",
+            "Según los relatos populares, una depresión extraña descubierta a finales del siglo XVIII dio lugar a excavaciones.",
+            "Surgieron historias sobre túneles subterráneos, cámaras ocultas y tesoros valiosos.",
+            "Las distintas búsquedas han descubierto objetos y estructuras, pero las afirmaciones sobre un enorme tesoro secreto siguen sin demostrarse.",
+            "La isla continúa despertando interés a través de libros, documentales y televisión."
+          ],
+          "timeline": [
+            {
+              "year": "Finales del siglo XVIII",
+              "event": "Surgen las primeras historias de búsqueda de tesoros."
+            },
+            {
+              "year": "Siglo XIX",
+              "event": "Se amplían los intentos de excavación."
+            },
+            {
+              "year": "Época moderna",
+              "event": "Continúan las nuevas investigaciones y la cobertura mediática."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Excavaciones históricas",
+              "description": "Se han realizado numerosas búsquedas documentadas en la isla."
+            },
+            {
+              "title": "Objetos recuperados",
+              "description": "Se han encontrado diversos objetos, pero ninguno demuestra la existencia de un tesoro legendario."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Se enterró alguna vez un tesoro valioso en la isla?",
+            "¿Qué explica las estructuras subterráneas descritas por los excavadores?"
+          ],
+          "year": "1795"
+        }
+      }
     },
     {
       "id": "23",
       "title": "The Curse of Tutankhamun",
       "subtitle": "Did opening the tomb awaken a curse?",
       "category": "Urban Legends",
-      "year": 1922,
+      "year": "1922",
       "location": "Egypt",
       "status": "Legend",
       "image": "/mysteries/tutankhamun.jpg",
@@ -995,14 +1950,56 @@
       "unansweredQuestions": [
         "Why did the curse story become so popular?",
         "How did sensational reporting influence public perception?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "La maldición de Tutankamón",
+          "subtitle": "¿Despertó una maldición al abrir la tumba?",
+          "category": "Leyendas urbanas",
+          "location": "Egipto",
+          "status": "Leyenda",
+          "description": "La legendaria maldición supuestamente relacionada con el descubrimiento de la tumba de Tutankamón.",
+          "story": [
+            "En 1922, el arqueólogo Howard Carter descubrió la tumba del faraón Tutankamón, que se conservaba casi intacta.",
+            "El hallazgo fue uno de los acontecimientos arqueológicos más importantes del siglo XX.",
+            "Tras la muerte de lord Carnarvon, financiador de la excavación, los periódicos empezaron a difundir historias sobre una antigua maldición.",
+            "La leyenda sugería que perturbar la tumba había provocado un castigo sobrenatural contra los implicados.",
+            "Las investigaciones históricas y científicas no han encontrado pruebas de una maldición sobrenatural."
+          ],
+          "timeline": [
+            {
+              "year": "1922",
+              "event": "Se descubre la tumba de Tutankamón."
+            },
+            {
+              "year": "1923",
+              "event": "Muere lord Carnarvon y aumentan los relatos sobre una maldición."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Descubrimiento histórico",
+              "description": "La tumba y su contenido fueron documentados exhaustivamente."
+            },
+            {
+              "title": "Cobertura periodística",
+              "description": "Los medios contribuyeron a crear y difundir la historia de la maldición."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Por qué se hizo tan popular la historia de la maldición?",
+            "¿Cómo influyó el sensacionalismo periodístico en la percepción pública?"
+          ],
+          "year": "1922"
+        }
+      }
     },
     {
       "id": "24",
       "title": "The Phaistos Disc",
       "subtitle": "An ancient message without a translation.",
       "category": "Ancient Mysteries",
-      "year": null,
+      "year": "1908",
       "location": "Greece",
       "status": "Unsolved",
       "image": "/mysteries/phaistos.jpg",
@@ -1038,14 +2035,57 @@
         "What do the symbols mean?",
         "What language was used?",
         "What was the disc's purpose?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "El disco de Festo",
+          "subtitle": "Un mensaje antiguo sin traducción.",
+          "category": "Misterios antiguos",
+          "location": "Grecia",
+          "status": "Sin resolver",
+          "description": "Un disco de arcilla de la Edad del Bronce cubierto de símbolos misteriosos.",
+          "story": [
+            "El disco de Festo fue descubierto en 1908 en el palacio minoico de Festo, en Creta.",
+            "El disco de arcilla contiene símbolos impresos dispuestos en espiral.",
+            "Parece que los símbolos se crearon con sellos, lo que hace que el objeto resulte especialmente inusual.",
+            "Los especialistas han propuesto numerosas interpretaciones de la inscripción.",
+            "Como el texto conservado es corto y su sistema de escritura sigue siendo incierto, ninguna traducción ha obtenido una aceptación académica amplia."
+          ],
+          "timeline": [
+            {
+              "year": "Edad del Bronce",
+              "event": "Se fabrica el disco."
+            },
+            {
+              "year": "1908",
+              "event": "El disco es descubierto en Festo."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Símbolos estampados",
+              "description": "El disco contiene signos repetidos organizados en espiral."
+            },
+            {
+              "title": "Contexto arqueológico",
+              "description": "Su descubrimiento lo vincula con la Creta de la Edad del Bronce."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué significan los símbolos?",
+            "¿Qué lengua se utilizó?",
+            "¿Para qué servía el disco?"
+          ],
+          "year": "1908"
+        }
+      }
     },
     {
       "id": "25",
       "title": "The Hessdalen Lights",
       "subtitle": "The lights that appear without warning.",
       "category": "Science & Space",
-      "year": null,
+      "year": "1981",
       "location": "Norway",
       "status": "Partially Explained",
       "image": "/mysteries/hessdalen.jpg",
@@ -1080,14 +2120,56 @@
       "unansweredQuestions": [
         "What physical processes produce the lights?",
         "Do all reported sightings share the same explanation?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "Las luces de Hessdalen",
+          "subtitle": "Las luces que aparecen sin avisar.",
+          "category": "Ciencia y espacio",
+          "location": "Noruega",
+          "status": "Parcialmente explicado",
+          "description": "Fenómenos luminosos inusuales observados en un valle noruego.",
+          "story": [
+            "El valle de Hessdalen, en Noruega, es conocido por los relatos de luces extrañas que aparecen en el cielo.",
+            "El fenómeno atrajo especial atención durante los años ochenta, cuando los residentes comunicaron numerosos avistamientos.",
+            "Los investigadores han realizado proyectos de observación con cámaras e instrumentos científicos.",
+            "Se han propuesto varias explicaciones, incluidos procesos atmosféricos y geológicos.",
+            "Algunas observaciones siguen siendo difíciles de clasificar, aunque no existen pruebas verificadas de actividad extraterrestre."
+          ],
+          "timeline": [
+            {
+              "year": "Años ochenta",
+              "event": "Aumentan los informes de luces inusuales."
+            },
+            {
+              "year": "1984",
+              "event": "Un proyecto científico de observación investiga el fenómeno."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Observaciones fotográficas",
+              "description": "Algunos fenómenos luminosos han quedado registrados por cámaras."
+            },
+            {
+              "title": "Mediciones científicas",
+              "description": "Los investigadores han intentado medir y clasificar las luces observadas."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué procesos físicos producen las luces?",
+            "¿Comparten todos los avistamientos la misma explicación?"
+          ],
+          "year": "1981"
+        }
+      }
     },
     {
       "id": "26",
       "title": "D. B. Cooper",
       "subtitle": "The hijacker who disappeared into the night.",
       "category": "Unsolved Cases",
-      "year": 1971,
+      "year": "1971",
       "location": "United States",
       "status": "Unsolved",
       "image": "/mysteries/db-cooper.jpg",
@@ -1127,14 +2209,61 @@
         "Who was D. B. Cooper?",
         "Did he survive the parachute jump?",
         "Where did the remaining ransom money go?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "D. B. Cooper",
+          "subtitle": "El secuestrador aéreo que desapareció en la noche.",
+          "category": "Casos sin resolver",
+          "location": "Estados Unidos",
+          "status": "Sin resolver",
+          "description": "Un secuestrador no identificado escapó de un avión con el dinero de un rescate.",
+          "story": [
+            "El 24 de noviembre de 1971, un hombre que utilizaba el nombre Dan Cooper secuestró un avión comercial en Estados Unidos.",
+            "Exigió dinero y paracaídas a cambio de liberar a los pasajeros.",
+            "Tras recibir el rescate, ordenó que el avión despegara de nuevo.",
+            "Durante el vuelo, Cooper saltó del avión con el dinero y desapareció.",
+            "A pesar de una extensa investigación del FBI, nunca se establecieron de forma concluyente su identidad ni su destino."
+          ],
+          "timeline": [
+            {
+              "year": "24 de noviembre de 1971",
+              "event": "Cooper secuestra un avión y recibe el dinero del rescate."
+            },
+            {
+              "year": "1971",
+              "event": "Salta en paracaídas desde el avión y desaparece."
+            },
+            {
+              "year": "1980",
+              "event": "Se descubre parte del dinero del rescate."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Dinero del rescate recuperado",
+              "description": "Años después del secuestro se encontraron algunos billetes del rescate."
+            },
+            {
+              "title": "Descripciones de testigos",
+              "description": "Los pasajeros y la tripulación describieron al secuestrador."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Quién era D. B. Cooper?",
+            "¿Sobrevivió al salto en paracaídas?",
+            "¿Dónde terminó el resto del dinero?"
+          ],
+          "year": "1971"
+        }
+      }
     },
     {
       "id": "27",
       "title": "The Yuba County Five",
       "subtitle": "Five men vanished into the mountains.",
       "category": "Unsolved Cases",
-      "year": 1978,
+      "year": "1978",
       "location": "United States",
       "status": "Unsolved",
       "image": "/mysteries/yuba-county.jpg",
@@ -1174,14 +2303,61 @@
         "Why did the group travel into the mountains?",
         "What happened after they abandoned the car?",
         "What happened to the missing fifth man?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "Los cinco de Yuba County",
+          "subtitle": "Cinco hombres desaparecieron en las montañas.",
+          "category": "Casos sin resolver",
+          "location": "Estados Unidos",
+          "status": "Sin resolver",
+          "description": "Cinco hombres desaparecieron después de asistir a un partido de baloncesto en California.",
+          "story": [
+            "En febrero de 1978, cinco hombres del condado de Yuba, California, desaparecieron tras asistir a un partido de baloncesto.",
+            "Su vehículo fue encontrado después abandonado en una zona montañosa remota.",
+            "Meses más tarde aparecieron los restos de cuatro de ellos en diferentes lugares.",
+            "Nunca se encontró al quinto integrante del grupo.",
+            "Los investigadores no lograron explicar por qué habían ido a las montañas ni qué sucesión de acontecimientos provocó la tragedia."
+          ],
+          "timeline": [
+            {
+              "year": "Febrero de 1978",
+              "event": "Desaparecen los cinco hombres."
+            },
+            {
+              "year": "1978",
+              "event": "Se encuentra su vehículo abandonado."
+            },
+            {
+              "year": "Meses posteriores",
+              "event": "Se recuperan cuatro cuerpos."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Vehículo abandonado",
+              "description": "El coche apareció en un lugar inesperado de la montaña."
+            },
+            {
+              "title": "Restos recuperados",
+              "description": "La ubicación y el estado de los restos ofrecieron pistas sobre los últimos movimientos del grupo."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Por qué fueron a las montañas?",
+            "¿Qué ocurrió después de abandonar el coche?",
+            "¿Qué pasó con el quinto hombre desaparecido?"
+          ],
+          "year": "1978"
+        }
+      }
     },
     {
       "id": "28",
       "title": "The Fermi Paradox",
       "subtitle": "Where is everybody?",
       "category": "Science & Space",
-      "year": null,
+      "year": "1950",
       "location": "Universe",
       "status": "Unsolved",
       "image": "/mysteries/fermi.jpg",
@@ -1217,14 +2393,57 @@
         "How common is intelligent life?",
         "Could civilizations be too distant to detect?",
         "Are we searching in the right ways?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "La paradoja de Fermi",
+          "subtitle": "¿Dónde está todo el mundo?",
+          "category": "Ciencia y espacio",
+          "location": "Universo",
+          "status": "Sin resolver",
+          "description": "¿Por qué no hemos encontrado pruebas confirmadas de civilizaciones extraterrestres?",
+          "story": [
+            "El universo observable contiene una cantidad inmensa de galaxias, estrellas y planetas.",
+            "Ante esta escala, científicos y filósofos se preguntan por qué la humanidad no ha detectado pruebas confirmadas de civilizaciones tecnológicas extraterrestres.",
+            "La pregunta se asocia habitualmente con el físico Enrico Fermi.",
+            "Entre las posibles explicaciones están la rareza de la vida inteligente, las enormes distancias entre civilizaciones y las limitaciones para detectar señales.",
+            "La paradoja de Fermi sigue siendo una cuestión importante en astrobiología y en la búsqueda de inteligencia extraterrestre."
+          ],
+          "timeline": [
+            {
+              "year": "1950",
+              "event": "Enrico Fermi plantea la famosa pregunta asociada a la paradoja."
+            },
+            {
+              "year": "Época moderna",
+              "event": "Los científicos siguen buscando indicios de vida fuera de la Tierra."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Descubrimientos de exoplanetas",
+              "description": "Los astrónomos han confirmado miles de planetas que orbitan otras estrellas."
+            },
+            {
+              "title": "Búsquedas de señales extraterrestres",
+              "description": "Los programas científicos han buscado señales tecnológicas sin confirmar ninguna civilización extraterrestre."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Es frecuente la vida inteligente?",
+            "¿Podrían las civilizaciones estar demasiado lejos para detectarlas?",
+            "¿Estamos buscando de la manera adecuada?"
+          ],
+          "year": "1950"
+        }
+      }
     },
     {
       "id": "29",
       "title": "The Dancing Plague of 1518",
       "subtitle": "When a city could not stop dancing.",
       "category": "Unsolved Cases",
-      "year": 1518,
+      "year": "1518",
       "location": "France",
       "status": "Partially Explained",
       "image": "/mysteries/dancing-plague.jpg",
@@ -1259,14 +2478,56 @@
       "unansweredQuestions": [
         "What triggered the episode?",
         "How much did social and psychological factors contribute?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "La epidemia de baile de 1518",
+          "subtitle": "Cuando una ciudad no podía dejar de bailar.",
+          "category": "Casos sin resolver",
+          "location": "Francia",
+          "status": "Parcialmente explicado",
+          "description": "Un episodio histórico en el que varias personas supuestamente bailaron de forma compulsiva en Estrasburgo.",
+          "story": [
+            "En 1518 ocurrió un episodio extraño en Estrasburgo, entonces parte del Sacro Imperio Romano Germánico y hoy situada en Francia.",
+            "Los relatos históricos describen a personas que bailaban compulsivamente en público.",
+            "Según las crónicas, el fenómeno afectó a un número creciente de personas durante varias semanas.",
+            "Los historiadores han propuesto explicaciones relacionadas con el estrés psicológico, las condiciones sociales y el comportamiento colectivo.",
+            "Aunque el suceso está documentado en fuentes históricas, sus causas exactas y algunos detalles siguen siendo objeto de debate."
+          ],
+          "timeline": [
+            {
+              "year": "1518",
+              "event": "Surgen informes sobre personas que bailan compulsivamente en Estrasburgo."
+            },
+            {
+              "year": "Semanas posteriores",
+              "event": "Según los relatos, el fenómeno se extiende antes de desaparecer."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Registros históricos",
+              "description": "Fuentes contemporáneas y posteriores describen el extraño episodio de baile."
+            },
+            {
+              "title": "Condiciones sociales",
+              "description": "Los historiadores han estudiado las difíciles condiciones de vida de la época."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Qué desencadenó el episodio?",
+            "¿Hasta qué punto influyeron los factores sociales y psicológicos?"
+          ],
+          "year": "1518"
+        }
+      }
     },
     {
       "id": "30",
       "title": "The Black-Eyed Children",
       "subtitle": "Never invite them inside.",
       "category": "Urban Legends",
-      "year": null,
+      "year": "1996",
       "location": "United States",
       "status": "Legend",
       "image": "/mysteries/black-eyed-children.jpg",
@@ -1301,7 +2562,49 @@
       "unansweredQuestions": [
         "Where did the legend originate?",
         "Why do similar stories appear in online folklore?"
-      ]
+      ],
+      "translations": {
+        "es": {
+          "title": "Los niños de ojos negros",
+          "subtitle": "Nunca los invites a entrar.",
+          "category": "Leyendas urbanas",
+          "location": "Estados Unidos",
+          "status": "Leyenda",
+          "description": "Una leyenda de internet sobre niños misteriosos con los ojos completamente negros.",
+          "story": [
+            "Los niños de ojos negros son personajes del folclore de terror moderno de internet.",
+            "Las historias describen a niños o adolescentes que aparecen inesperadamente y piden ayuda a desconocidos o permiso para entrar en una casa.",
+            "Su rasgo más inquietante serían sus ojos completamente negros.",
+            "La leyenda se popularizó mediante relatos digitales y comunidades paranormales.",
+            "No hay pruebas fiables de que estos encuentros impliquen seres sobrenaturales. En general, las historias se consideran leyendas urbanas contemporáneas."
+          ],
+          "timeline": [
+            {
+              "year": "Años noventa",
+              "event": "Circulan ampliamente las primeras historias en internet sobre niños de ojos negros."
+            },
+            {
+              "year": "Años 2000",
+              "event": "La leyenda se extiende por páginas paranormales y comunidades digitales."
+            }
+          ],
+          "evidence": [
+            {
+              "title": "Relatos en internet",
+              "description": "Las historias circulan por páginas web, foros y redes sociales."
+            },
+            {
+              "title": "Falta de verificación",
+              "description": "No existen pruebas físicas fiables que demuestren un fenómeno sobrenatural."
+            }
+          ],
+          "unansweredQuestions": [
+            "¿Dónde se originó la leyenda?",
+            "¿Por qué aparecen historias parecidas en el folclore digital?"
+          ],
+          "year": "1996"
+        }
+      }
     }
   ],
   "theories": [
@@ -1312,7 +2615,14 @@
       "description": "Storms, strong currents, navigation errors and mechanical failures can explain many incidents associated with the Bermuda Triangle.",
       "author": "Historical and scientific explanation",
       "source": "documented",
-      "evidenceLevel": "Supported"
+      "evidenceLevel": "Supported",
+      "translations": {
+        "es": {
+          "title": "Peligros marítimos naturales",
+          "description": "Las tormentas, las corrientes fuertes, los errores de navegación y los fallos mecánicos pueden explicar muchos incidentes asociados al Triángulo de las Bermudas.",
+          "author": "Explicación histórica y científica"
+        }
+      }
     },
     {
       "id": "2",
@@ -1321,7 +2631,14 @@
       "description": "Some popular stories suggest paranormal forces or unusual magnetic phenomena, but these claims lack reliable supporting evidence.",
       "author": "Popular legend",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Fuerzas sobrenaturales",
+          "description": "Algunos relatos populares hablan de fuerzas paranormales o fenómenos magnéticos extraños, pero estas afirmaciones carecen de pruebas fiables.",
+          "author": "Leyenda popular"
+        }
+      }
     },
     {
       "id": "3",
@@ -1330,7 +2647,14 @@
       "description": "Cleopatra may have been buried in or near Alexandria, where ancient historical accounts place her final days.",
       "author": "Historical hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Bajo la antigua Alejandría",
+          "description": "Cleopatra pudo ser enterrada en Alejandría o sus alrededores, donde las fuentes antiguas sitúan sus últimos días.",
+          "author": "Hipótesis histórica"
+        }
+      }
     },
     {
       "id": "4",
@@ -1339,7 +2663,14 @@
       "description": "Some archaeologists have investigated whether Cleopatra could have been buried near the temple of Taposiris Magna.",
       "author": "Archaeological hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "La hipótesis de Taposiris Magna",
+          "description": "Algunos arqueólogos han investigado si Cleopatra pudo ser enterrada cerca del templo de Taposiris Magna.",
+          "author": "Hipótesis arqueológica"
+        }
+      }
     },
     {
       "id": "5",
@@ -1348,7 +2679,14 @@
       "description": "The legend suggests that Setealém is another reality existing alongside our own, although no evidence confirms its existence.",
       "author": "Urban legend",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Una dimensión paralela",
+          "description": "La leyenda sugiere que Setealém es otra realidad que existe junto a la nuestra, aunque ninguna prueba confirma su existencia.",
+          "author": "Leyenda urbana"
+        }
+      }
     },
     {
       "id": "6",
@@ -1357,7 +2695,14 @@
       "description": "Setealém may be a fictional universe developed through shared storytelling and the evolution of online urban legends.",
       "author": "Folklore interpretation",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Folclore colectivo de internet",
+          "description": "Setealém podría ser un universo ficticio creado mediante relatos compartidos y la evolución de leyendas urbanas digitales.",
+          "author": "Interpretación folclórica"
+        }
+      }
     },
     {
       "id": "7",
@@ -1366,7 +2711,14 @@
       "description": "Atlantis may have been an invented civilization used by Plato to explore political and philosophical ideas.",
       "author": "Historical interpretation",
       "source": "documented",
-      "evidenceLevel": "Supported"
+      "evidenceLevel": "Supported",
+      "translations": {
+        "es": {
+          "title": "La alegoría filosófica de Platón",
+          "description": "La Atlántida podría ser una civilización inventada por Platón para explorar ideas políticas y filosóficas.",
+          "author": "Interpretación histórica"
+        }
+      }
     },
     {
       "id": "8",
@@ -1375,7 +2727,14 @@
       "description": "Some writers suggest that the destruction of ancient settlements around the Aegean Sea may have influenced the Atlantis story.",
       "author": "Historical hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "La conexión minoica",
+          "description": "Algunos autores sugieren que la destrucción de asentamientos antiguos del mar Egeo pudo influir en la historia de la Atlántida.",
+          "author": "Hipótesis histórica"
+        }
+      }
     },
     {
       "id": "9",
@@ -1384,7 +2743,14 @@
       "description": "Satellite analysis and recovered debris support the conclusion that MH370 ended its flight in the southern Indian Ocean.",
       "author": "Aviation investigation",
       "source": "documented",
-      "evidenceLevel": "Supported"
+      "evidenceLevel": "Supported",
+      "translations": {
+        "es": {
+          "title": "Accidente en el sur del océano Índico",
+          "description": "Los análisis por satélite y los restos recuperados respaldan la conclusión de que el MH370 terminó su vuelo en el sur del Índico.",
+          "author": "Investigación aeronáutica"
+        }
+      }
     },
     {
       "id": "10",
@@ -1393,7 +2759,14 @@
       "description": "Investigators have considered whether the aircraft's route was deliberately altered, but the exact circumstances remain unconfirmed.",
       "author": "Investigative hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Desvío deliberado de la ruta",
+          "description": "Los investigadores han considerado si alguien cambió deliberadamente la trayectoria del avión, pero las circunstancias exactas siguen sin confirmarse.",
+          "author": "Hipótesis de investigación"
+        }
+      }
     },
     {
       "id": "11",
@@ -1402,7 +2775,14 @@
       "description": "The signal may have originated from a natural astronomical phenomenon that has not yet been conclusively identified.",
       "author": "Scientific hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Origen astronómico natural",
+          "description": "La señal pudo proceder de un fenómeno astronómico natural que todavía no ha sido identificado de forma concluyente.",
+          "author": "Hipótesis científica"
+        }
+      }
     },
     {
       "id": "12",
@@ -1411,7 +2791,14 @@
       "description": "Some speculate that the signal could have been produced by an extraterrestrial civilization, but there is no confirming evidence.",
       "author": "Speculative hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Transmisión extraterrestre",
+          "description": "Algunas personas especulan que una civilización extraterrestre pudo producir la señal, pero no hay pruebas que lo confirmen.",
+          "author": "Hipótesis especulativa"
+        }
+      }
     },
     {
       "id": "13",
@@ -1420,7 +2807,14 @@
       "description": "The manuscript may contain meaningful text written in an unknown script or encoded language.",
       "author": "Linguistic hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Un sistema de escritura desconocido",
+          "description": "El manuscrito podría contener un texto con significado escrito en signos desconocidos o en una lengua cifrada.",
+          "author": "Hipótesis lingüística"
+        }
+      }
     },
     {
       "id": "14",
@@ -1429,7 +2823,14 @@
       "description": "Some researchers have proposed that the manuscript may contain meaningless text, although this interpretation remains disputed.",
       "author": "Historical hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Un engaño elaborado",
+          "description": "Algunos investigadores proponen que el manuscrito podría contener texto sin significado, aunque esta interpretación sigue siendo discutida.",
+          "author": "Hipótesis histórica"
+        }
+      }
     },
     {
       "id": "15",
@@ -1438,7 +2839,14 @@
       "description": "Known animals, floating objects and optical effects may explain many reported Loch Ness sightings.",
       "author": "Scientific explanation",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Animales identificados erróneamente",
+          "description": "Animales conocidos, objetos flotantes y efectos ópticos podrían explicar muchos de los avistamientos del lago Ness.",
+          "author": "Explicación científica"
+        }
+      }
     },
     {
       "id": "16",
@@ -1447,7 +2855,14 @@
       "description": "Some believers suggest that an unidentified large animal inhabits the lake, but scientific investigations have not supported this claim.",
       "author": "Popular legend",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Una criatura acuática desconocida",
+          "description": "Algunas personas creen que un gran animal no identificado habita el lago, pero las investigaciones científicas no respaldan esa afirmación.",
+          "author": "Leyenda popular"
+        }
+      }
     },
     {
       "id": "17",
@@ -1456,7 +2871,14 @@
       "description": "Ancient Egyptian workers may have used combinations of ramps, sledges and carefully coordinated labor to construct the pyramid.",
       "author": "Archaeological explanation",
       "source": "documented",
-      "evidenceLevel": "Supported"
+      "evidenceLevel": "Supported",
+      "translations": {
+        "es": {
+          "title": "Rampas y trabajo organizado",
+          "description": "Los trabajadores egipcios pudieron combinar rampas, trineos y mano de obra cuidadosamente coordinada para construir la pirámide.",
+          "author": "Explicación arqueológica"
+        }
+      }
     },
     {
       "id": "18",
@@ -1465,7 +2887,14 @@
       "description": "Some researchers have proposed that internal ramps helped workers transport stones to higher levels.",
       "author": "Engineering hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Rampas de construcción interiores",
+          "description": "Algunos investigadores proponen que rampas internas ayudaron a transportar las piedras hasta los niveles superiores.",
+          "author": "Hipótesis de ingeniería"
+        }
+      }
     },
     {
       "id": "19",
@@ -1474,7 +2903,14 @@
       "description": "A small slab avalanche may have forced the hikers to leave their tent and contributed to the fatal sequence of events.",
       "author": "Scientific explanation",
       "source": "documented",
-      "evidenceLevel": "Supported"
+      "evidenceLevel": "Supported",
+      "translations": {
+        "es": {
+          "title": "Avalancha de placa",
+          "description": "Una pequeña avalancha de placa pudo obligar a los excursionistas a abandonar la tienda y contribuir a los acontecimientos mortales.",
+          "author": "Explicación científica"
+        }
+      }
     },
     {
       "id": "20",
@@ -1483,7 +2919,14 @@
       "description": "Severe weather, disorientation and hypothermia may have contributed to the hikers' deaths.",
       "author": "Scientific explanation",
       "source": "documented",
-      "evidenceLevel": "Supported"
+      "evidenceLevel": "Supported",
+      "translations": {
+        "es": {
+          "title": "Tiempo extremo y exposición al frío",
+          "description": "El mal tiempo, la desorientación y la hipotermia pudieron contribuir a la muerte de los excursionistas.",
+          "author": "Explicación científica"
+        }
+      }
     },
     {
       "id": "21",
@@ -1492,7 +2935,14 @@
       "description": "The crew may have believed the ship was in immediate danger and abandoned it using the lifeboat.",
       "author": "Maritime hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Abandono de emergencia",
+          "description": "La tripulación pudo creer que el barco corría peligro inmediato y abandonarlo en el bote salvavidas.",
+          "author": "Hipótesis marítima"
+        }
+      }
     },
     {
       "id": "22",
@@ -1501,7 +2951,14 @@
       "description": "The crew may have feared a dangerous situation involving the ship's cargo, although this has not been established.",
       "author": "Maritime hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Preocupación por la carga",
+          "description": "La tripulación pudo temer una situación peligrosa relacionada con la carga, aunque no se ha demostrado.",
+          "author": "Hipótesis marítima"
+        }
+      }
     },
     {
       "id": "23",
@@ -1510,7 +2967,14 @@
       "description": "Some geoglyphs may have been associated with rituals, religious practices and ceremonial movement.",
       "author": "Archaeological interpretation",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Finalidades religiosas y ceremoniales",
+          "description": "Algunos geoglifos pudieron estar relacionados con rituales, prácticas religiosas y desplazamientos ceremoniales.",
+          "author": "Interpretación arqueológica"
+        }
+      }
     },
     {
       "id": "24",
@@ -1519,7 +2983,14 @@
       "description": "Some researchers suggest connections between the geoglyphs, water sources and the surrounding environment.",
       "author": "Archaeological hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Simbolismo del agua y el paisaje",
+          "description": "Algunos investigadores sugieren vínculos entre los geoglifos, las fuentes de agua y el entorno.",
+          "author": "Hipótesis arqueológica"
+        }
+      }
     },
     {
       "id": "25",
@@ -1528,7 +2999,14 @@
       "description": "A large wave may have swept the lighthouse keepers into the sea while they were working near the landing area.",
       "author": "Official historical explanation",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Arrastrados por una ola gigante",
+          "description": "Una gran ola pudo arrastrar al mar a los fareros mientras trabajaban cerca de la zona de desembarco.",
+          "author": "Explicación histórica oficial"
+        }
+      }
     },
     {
       "id": "26",
@@ -1537,7 +3015,14 @@
       "description": "The men may have gone outside to secure equipment before encountering dangerous sea conditions.",
       "author": "Historical hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Un accidente costero inesperado",
+          "description": "Los hombres pudieron salir a asegurar el equipo y encontrarse con condiciones marítimas peligrosas.",
+          "author": "Hipótesis histórica"
+        }
+      }
     },
     {
       "id": "27",
@@ -1546,7 +3031,14 @@
       "description": "Some Mothman sightings may have involved large birds observed under unusual lighting conditions.",
       "author": "Natural explanation",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Un ave grande confundida",
+          "description": "Algunos avistamientos del hombre polilla pudieron ser aves grandes observadas con una iluminación inusual.",
+          "author": "Explicación natural"
+        }
+      }
     },
     {
       "id": "28",
@@ -1555,7 +3047,14 @@
       "description": "Popular folklore portrays the Mothman as a supernatural figure connected to impending disasters.",
       "author": "Urban legend",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Una advertencia sobrenatural",
+          "description": "El folclore popular presenta al hombre polilla como una figura sobrenatural relacionada con desastres inminentes.",
+          "author": "Leyenda urbana"
+        }
+      }
     },
     {
       "id": "29",
@@ -1564,7 +3063,14 @@
       "description": "Earhart and Noonan may have exhausted their fuel supply while searching for Howland Island and crashed into the ocean.",
       "author": "Aviation hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Accidente cerca de la isla Howland",
+          "description": "Earhart y Noonan pudieron quedarse sin combustible buscando la isla Howland y estrellarse en el océano.",
+          "author": "Hipótesis aeronáutica"
+        }
+      }
     },
     {
       "id": "30",
@@ -1573,7 +3079,14 @@
       "description": "An alternative hypothesis suggests that the aircraft may have landed on Nikumaroro, although no conclusive proof has been found.",
       "author": "Historical hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Aterrizaje en Nikumaroro",
+          "description": "Una hipótesis alternativa plantea que el avión aterrizó en Nikumaroro, aunque no se han encontrado pruebas concluyentes.",
+          "author": "Hipótesis histórica"
+        }
+      }
     },
     {
       "id": "31",
@@ -1582,7 +3095,14 @@
       "description": "The forest's unusual appearance may be explained by environmental conditions, tree growth patterns and local ecological factors.",
       "author": "Natural explanation",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Factores ambientales naturales",
+          "description": "El aspecto inusual del bosque podría explicarse por las condiciones ambientales, el crecimiento de los árboles y la ecología local.",
+          "author": "Explicación natural"
+        }
+      }
     },
     {
       "id": "32",
@@ -1591,7 +3111,14 @@
       "description": "Popular stories suggest supernatural phenomena occur in the forest, but these claims have not been independently verified.",
       "author": "Urban legend",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Actividad paranormal",
+          "description": "Las historias populares sugieren fenómenos sobrenaturales en el bosque, pero no se han verificado de forma independiente.",
+          "author": "Leyenda urbana"
+        }
+      }
     },
     {
       "id": "33",
@@ -1600,7 +3127,14 @@
       "description": "The mechanism was designed to model astronomical cycles and predict celestial events.",
       "author": "Scientific explanation",
       "source": "documented",
-      "evidenceLevel": "Supported"
+      "evidenceLevel": "Supported",
+      "translations": {
+        "es": {
+          "title": "Calculadora astronómica",
+          "description": "El mecanismo fue diseñado para representar ciclos astronómicos y predecir acontecimientos celestes.",
+          "author": "Explicación científica"
+        }
+      }
     },
     {
       "id": "34",
@@ -1609,7 +3143,14 @@
       "description": "The device may have belonged to a broader tradition of sophisticated ancient mechanical engineering.",
       "author": "Historical hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Una tradición tecnológica más amplia",
+          "description": "El aparato pudo formar parte de una tradición más extensa de ingeniería mecánica sofisticada en la Antigüedad.",
+          "author": "Hipótesis histórica"
+        }
+      }
     },
     {
       "id": "35",
@@ -1618,7 +3159,14 @@
       "description": "Some colonists may have joined nearby Indigenous communities after leaving Roanoke.",
       "author": "Historical hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Integración en comunidades indígenas",
+          "description": "Algunos colonos pudieron unirse a comunidades indígenas cercanas después de abandonar Roanoke.",
+          "author": "Hipótesis histórica"
+        }
+      }
     },
     {
       "id": "36",
@@ -1627,7 +3175,14 @@
       "description": "Food shortages and difficult living conditions may have forced the colonists to relocate.",
       "author": "Historical hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Traslado por dificultades",
+          "description": "La escasez de alimentos y las duras condiciones de vida pudieron obligar a los colonos a trasladarse.",
+          "author": "Hipótesis histórica"
+        }
+      }
     },
     {
       "id": "37",
@@ -1636,7 +3191,14 @@
       "description": "ʻOumuamua is understood to be an interstellar object, and scientists continue investigating natural explanations for its unusual properties.",
       "author": "Scientific explanation",
       "source": "documented",
-      "evidenceLevel": "Supported"
+      "evidenceLevel": "Supported",
+      "translations": {
+        "es": {
+          "title": "Objeto interestelar natural",
+          "description": "ʻOumuamua es un objeto interestelar y los científicos siguen investigando explicaciones naturales para sus propiedades inusuales.",
+          "author": "Explicación científica"
+        }
+      }
     },
     {
       "id": "38",
@@ -1645,7 +3207,14 @@
       "description": "Some speculative proposals suggested an artificial origin, but there is no verified evidence supporting extraterrestrial technology.",
       "author": "Speculative hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Objeto extraterrestre artificial",
+          "description": "Algunas propuestas especulativas sugieren un origen artificial, pero no hay pruebas verificadas de tecnología extraterrestre.",
+          "author": "Hipótesis especulativa"
+        }
+      }
     },
     {
       "id": "39",
@@ -1654,7 +3223,14 @@
       "description": "The men may have participated in an experiment influenced by spiritualist beliefs.",
       "author": "Investigative hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Un experimento espiritista",
+          "description": "Los hombres pudieron participar en un experimento influido por creencias espiritistas.",
+          "author": "Hipótesis de investigación"
+        }
+      }
     },
     {
       "id": "40",
@@ -1663,7 +3239,14 @@
       "description": "The cryptic instructions involving capsules have led to speculation about possible substance use, but the circumstances remain unresolved.",
       "author": "Investigative hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Un experimento con sustancias desconocidas",
+          "description": "Las enigmáticas instrucciones sobre cápsulas han provocado especulaciones sobre el consumo de sustancias, pero las circunstancias siguen sin resolverse.",
+          "author": "Hipótesis de investigación"
+        }
+      }
     },
     {
       "id": "41",
@@ -1672,7 +3255,14 @@
       "description": "The incident may have developed through misidentified sightings, misunderstandings and the spread of rumors.",
       "author": "Skeptical interpretation",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Identificación errónea y rumores",
+          "description": "El incidente pudo surgir de avistamientos mal interpretados, malentendidos y difusión de rumores.",
+          "author": "Interpretación escéptica"
+        }
+      }
     },
     {
       "id": "42",
@@ -1681,7 +3271,14 @@
       "description": "Some believers claim an extraterrestrial creature was encountered, but no verified evidence establishes this.",
       "author": "UFO folklore",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Encuentro extraterrestre",
+          "description": "Algunas personas afirman que hubo un encuentro con una criatura extraterrestre, pero no existen pruebas verificadas.",
+          "author": "Folclore ovni"
+        }
+      }
     },
     {
       "id": "43",
@@ -1690,7 +3287,14 @@
       "description": "Some treasure hunters believe valuable objects were deliberately hidden beneath Oak Island.",
       "author": "Treasure-hunting hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Tesoro enterrado",
+          "description": "Algunos buscadores de tesoros creen que se ocultaron deliberadamente objetos valiosos bajo Oak Island.",
+          "author": "Hipótesis de búsqueda de tesoros"
+        }
+      }
     },
     {
       "id": "44",
@@ -1699,7 +3303,14 @@
       "description": "Some underground features and flooding may be explained by the island's natural geology.",
       "author": "Geological explanation",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Formaciones geológicas naturales",
+          "description": "Algunas estructuras subterráneas y las inundaciones podrían explicarse por la geología natural de la isla.",
+          "author": "Explicación geológica"
+        }
+      }
     },
     {
       "id": "45",
@@ -1708,7 +3319,14 @@
       "description": "The curse legend may have developed through coincidences and exaggerated newspaper coverage.",
       "author": "Historical explanation",
       "source": "documented",
-      "evidenceLevel": "Supported"
+      "evidenceLevel": "Supported",
+      "translations": {
+        "es": {
+          "title": "Coincidencias y noticias sensacionalistas",
+          "description": "La leyenda de la maldición pudo surgir de coincidencias y de una cobertura periodística exagerada.",
+          "author": "Explicación histórica"
+        }
+      }
     },
     {
       "id": "46",
@@ -1717,7 +3335,14 @@
       "description": "Popular stories suggest the tomb was protected by a supernatural curse, but there is no reliable evidence for this claim.",
       "author": "Popular legend",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Una antigua maldición sobrenatural",
+          "description": "Los relatos populares sugieren que la tumba estaba protegida por una maldición sobrenatural, pero no hay pruebas fiables.",
+          "author": "Leyenda popular"
+        }
+      }
     },
     {
       "id": "47",
@@ -1726,7 +3351,14 @@
       "description": "The disc may contain a genuine inscription in a writing system that has not yet been decoded.",
       "author": "Linguistic hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Un sistema de escritura sin descifrar",
+          "description": "El disco podría contener una inscripción auténtica en un sistema de escritura todavía no descifrado.",
+          "author": "Hipótesis lingüística"
+        }
+      }
     },
     {
       "id": "48",
@@ -1735,7 +3367,14 @@
       "description": "Some interpretations suggest that the symbols may represent a religious or ceremonial message.",
       "author": "Archaeological hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Un texto ritual o ceremonial",
+          "description": "Algunas interpretaciones sugieren que los símbolos representan un mensaje religioso o ceremonial.",
+          "author": "Hipótesis arqueológica"
+        }
+      }
     },
     {
       "id": "49",
@@ -1744,7 +3383,14 @@
       "description": "Natural physical processes involving the atmosphere and local environment may explain some Hessdalen light observations.",
       "author": "Scientific hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Procesos atmosféricos y geológicos",
+          "description": "Los procesos físicos naturales de la atmósfera y el entorno local podrían explicar algunas observaciones de luces en Hessdalen.",
+          "author": "Hipótesis científica"
+        }
+      }
     },
     {
       "id": "50",
@@ -1753,7 +3399,14 @@
       "description": "Some observations remain unidentified, although this does not establish an extraterrestrial explanation.",
       "author": "Scientific classification",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Fenómenos aéreos no identificados",
+          "description": "Algunas observaciones siguen sin identificarse, aunque eso no demuestra una explicación extraterrestre.",
+          "author": "Clasificación científica"
+        }
+      }
     },
     {
       "id": "51",
@@ -1762,7 +3415,14 @@
       "description": "Cooper may have survived the parachute jump and escaped, although no conclusive evidence establishes his fate.",
       "author": "Investigative hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Supervivencia tras el salto",
+          "description": "Cooper pudo sobrevivir al salto en paracaídas y escapar, aunque ninguna prueba concluyente confirma su destino.",
+          "author": "Hipótesis de investigación"
+        }
+      }
     },
     {
       "id": "52",
@@ -1771,7 +3431,14 @@
       "description": "The dangerous conditions of the jump may have caused Cooper's death.",
       "author": "Investigative hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Aterrizaje mortal en paracaídas",
+          "description": "Las condiciones peligrosas del salto pudieron causar la muerte de Cooper.",
+          "author": "Hipótesis de investigación"
+        }
+      }
     },
     {
       "id": "53",
@@ -1780,7 +3447,14 @@
       "description": "The men may have become lost in unfamiliar mountain terrain and suffered from extreme environmental conditions.",
       "author": "Investigative hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Desorientación y exposición al frío",
+          "description": "Los hombres pudieron perderse en un terreno montañoso desconocido y sufrir condiciones ambientales extremas.",
+          "author": "Hipótesis de investigación"
+        }
+      }
     },
     {
       "id": "54",
@@ -1789,7 +3463,14 @@
       "description": "Some speculate that an encounter or unusual event caused the group to change its route, but this has not been established.",
       "author": "Speculative hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Un encuentro inesperado",
+          "description": "Algunas personas especulan que un encuentro o suceso inusual hizo que el grupo cambiara de ruta, pero no se ha demostrado.",
+          "author": "Hipótesis especulativa"
+        }
+      }
     },
     {
       "id": "55",
@@ -1798,7 +3479,14 @@
       "description": "Technological civilizations may be so uncommon that humanity has not encountered another.",
       "author": "Scientific hypothesis",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "La vida inteligente es extremadamente rara",
+          "description": "Las civilizaciones tecnológicas podrían ser tan poco frecuentes que la humanidad todavía no haya encontrado otra.",
+          "author": "Hipótesis científica"
+        }
+      }
     },
     {
       "id": "56",
@@ -1807,7 +3495,14 @@
       "description": "Other civilizations may exist, but the distances and timescales involved could make communication extremely difficult.",
       "author": "Scientific hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Las civilizaciones están demasiado lejos",
+          "description": "Podrían existir otras civilizaciones, pero las distancias y escalas temporales dificultarían enormemente la comunicación.",
+          "author": "Hipótesis científica"
+        }
+      }
     },
     {
       "id": "57",
@@ -1816,7 +3511,14 @@
       "description": "Collective psychological and social processes may have contributed to the dancing episode.",
       "author": "Historical and medical hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Enfermedad psicógena colectiva",
+          "description": "Los procesos psicológicos y sociales colectivos pudieron contribuir al episodio de baile.",
+          "author": "Hipótesis histórica y médica"
+        }
+      }
     },
     {
       "id": "58",
@@ -1825,7 +3527,14 @@
       "description": "Severe hardship and social conditions may have contributed to the unusual collective behavior.",
       "author": "Historical hypothesis",
       "source": "documented",
-      "evidenceLevel": "Plausible"
+      "evidenceLevel": "Plausible",
+      "translations": {
+        "es": {
+          "title": "Estrés social extremo",
+          "description": "Las duras condiciones de vida y las tensiones sociales pudieron contribuir al comportamiento colectivo inusual.",
+          "author": "Hipótesis histórica"
+        }
+      }
     },
     {
       "id": "59",
@@ -1834,7 +3543,14 @@
       "description": "The Black-Eyed Children stories may be a form of collaborative internet horror fiction.",
       "author": "Folklore interpretation",
       "source": "documented",
-      "evidenceLevel": "Supported"
+      "evidenceLevel": "Supported",
+      "translations": {
+        "es": {
+          "title": "Folclore moderno de internet",
+          "description": "Las historias de los niños de ojos negros podrían ser una forma de ficción de terror colaborativa en internet.",
+          "author": "Interpretación folclórica"
+        }
+      }
     },
     {
       "id": "60",
@@ -1843,7 +3559,14 @@
       "description": "Some versions of the legend portray the children as supernatural entities, but no reliable evidence supports this interpretation.",
       "author": "Urban legend",
       "source": "documented",
-      "evidenceLevel": "Speculative"
+      "evidenceLevel": "Speculative",
+      "translations": {
+        "es": {
+          "title": "Visitantes sobrenaturales",
+          "description": "Algunas versiones de la leyenda presentan a los niños como seres sobrenaturales, pero ninguna prueba fiable respalda esta interpretación.",
+          "author": "Leyenda urbana"
+        }
+      }
     }
   ]
 }
